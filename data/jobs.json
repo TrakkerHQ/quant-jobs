@@ -570,5 +570,16 @@
     "country": "international",
     "updated_at": "2026-09-22T11:13:43.035661+00:00",
     "date_discovered": "2026-09-22T11:14:25.573559+00:00"
+  },
+  {
+    "id": 12802263,
+    "company_display": "HRT",
+    "title": "Data Scientist Intern \u2013 2027",
+    "location": "New York",
+    "url": "https://www.hudsonrivertrading.com/hrt-job/data-scientist-intern-2027/",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-09-22T22:45:06.214832+00:00"
   }
 ]
