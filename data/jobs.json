@@ -56,7 +56,7 @@
   },
   {
     "id": 8145799,
-    "company_display": "Genevatrading",
+    "company_display": "Geneva Trading",
     "title": "Quantitative Trading Internship \u2013 Summer 2027",
     "location": "Chicago Office",
     "url": "https://job-boards.greenhouse.io/genevatrading/jobs/5232641007",
@@ -581,5 +581,82 @@
     "country": "us",
     "updated_at": null,
     "date_discovered": "2026-09-22T22:45:06.214832+00:00"
+  },
+  {
+    "id": 13006785,
+    "company_display": "JPMorgan",
+    "title": "Quant Analytics Associate",
+    "location": "Bengaluru, Karnataka, India",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210728706",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": "2026-09-23T00:00:00+00:00",
+    "date_discovered": "2026-09-23T11:16:06.946887+00:00"
+  },
+  {
+    "id": 13070682,
+    "company_display": "Neuberger Berman",
+    "title": "Quantitative 2027 Summer Intern",
+    "location": "New York, NY",
+    "url": "https://nb.wd1.myworkdayjobs.com/en-US/NBCareers/job/New-York-NY/Quantitative-2027-Summer-Intern_R0012643",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-23T13:43:10.496166+00:00",
+    "date_discovered": "2026-09-23T13:44:28.339958+00:00"
+  },
+  {
+    "id": 13075656,
+    "company_display": "JPMorgan",
+    "title": "Quant Analytics Associate -Digital",
+    "location": "Mumbai, Maharashtra, India",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210792867",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": "2026-09-23T00:00:00+00:00",
+    "date_discovered": "2026-09-23T13:48:14.552791+00:00"
+  },
+  {
+    "id": 13116390,
+    "company_display": "Jump Trading",
+    "title": "Campus Quantitative Researcher (Full-Time)",
+    "location": "London; Amsterdam",
+    "url": "https://www.jumptrading.com/hr/job?gh_jid=8050796",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": "2026-08-08T05:01:49+00:00",
+    "date_discovered": "2026-09-23T15:19:26.940818+00:00"
+  },
+  {
+    "id": 13116397,
+    "company_display": "Jump Trading",
+    "title": "Campus Quantitative Researcher | Trading Team PhD/Postdoc (Full-Time)",
+    "location": "New York",
+    "url": "https://www.jumptrading.com/hr/job?gh_jid=8209424",
+    "skill_level": "entry",
+    "country": "us",
+    "updated_at": "2026-09-22T14:27:41+00:00",
+    "date_discovered": "2026-09-23T15:19:27.437796+00:00"
+  },
+  {
+    "id": 13116399,
+    "company_display": "Jump Trading",
+    "title": "Campus Quantitative Trader (Full-Time)",
+    "location": "London; Amsterdam",
+    "url": "https://www.jumptrading.com/hr/job?gh_jid=8050801",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": "2026-08-08T05:01:49+00:00",
+    "date_discovered": "2026-09-23T15:19:27.921675+00:00"
+  },
+  {
+    "id": 13140651,
+    "company_display": "Optiver",
+    "title": "Graduate Quantitative Researcher, PhD (2027 Start)",
+    "location": "New York",
+    "url": "https://www.optiver.com/join-us/jobs/8451764002/?gh_jid=8451764002",
+    "skill_level": "entry",
+    "country": "us",
+    "updated_at": "2026-09-23T15:58:10+00:00",
+    "date_discovered": "2026-09-23T16:23:30.877176+00:00"
   }
 ]
