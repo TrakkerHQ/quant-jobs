@@ -88,17 +88,6 @@
     "date_discovered": "2026-09-11T14:43:57.793262+00:00"
   },
   {
-    "id": 8519059,
-    "company_display": "Trexquant",
-    "title": "Quantitative Researcher - Early Career (CHINA)",
-    "location": "Beijing, China",
-    "url": "https://apply.workable.com/j/70715DCEB5/apply",
-    "skill_level": "entry",
-    "country": "international",
-    "updated_at": "2022-01-20T00:00:00+00:00",
-    "date_discovered": "2026-09-11T16:30:17.014322+00:00"
-  },
-  {
     "id": 8796541,
     "company_display": "Brevan-Howard",
     "title": "2027 Summer Internship Program \u2013 Systematic Trading, New York",
@@ -669,5 +658,16 @@
     "country": "international",
     "updated_at": "2026-09-24T04:16:05+00:00",
     "date_discovered": "2026-09-24T05:01:13.483195+00:00"
+  },
+  {
+    "id": 13982952,
+    "company_display": "Winton",
+    "title": "Quantitative Developer, Graduate",
+    "location": "London, United Kingdom",
+    "url": "https://job-boards.eu.greenhouse.io/winton/jobs/4986765101",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": "2026-09-25T08:25:34+00:00",
+    "date_discovered": "2026-09-25T09:02:03.780521+00:00"
   }
 ]
