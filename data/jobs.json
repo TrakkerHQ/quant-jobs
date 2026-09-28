@@ -407,17 +407,6 @@
     "date_discovered": "2026-09-16T17:07:04.136912+00:00"
   },
   {
-    "id": 10344209,
-    "company_display": "Wellington Management",
-    "title": "Quantitative Trading Co-op",
-    "location": "Boston, MA, USA",
-    "url": "https://wellington.wd5.myworkdayjobs.com/en-US/Campus/job/Boston-MA-United-States/Trading-Research---Analytics-Co-Op_R94827",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-16T19:15:52.943683+00:00",
-    "date_discovered": "2026-09-16T19:16:26.820320+00:00"
-  },
-  {
     "id": 10421323,
     "company_display": "American Century Investments",
     "title": "Quantitative Research Intern",
@@ -427,17 +416,6 @@
     "country": "us",
     "updated_at": "2026-09-16T22:14:16.767156+00:00",
     "date_discovered": "2026-09-16T22:15:40.517116+00:00"
-  },
-  {
-    "id": 10434371,
-    "company_display": "Wellington Management",
-    "title": "Global Risk & Performance Strategy Co Op",
-    "location": "Boston, MA, USA",
-    "url": "https://wellington.wd5.myworkdayjobs.com/en-US/External/job/Boston-MA-United-States/Global-Risk---Performance-Strategy-Co-Op_R94868-1",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-16T22:43:17.506673+00:00",
-    "date_discovered": "2026-09-16T22:44:33.067869+00:00"
   },
   {
     "id": 10770211,
@@ -636,5 +614,27 @@
     "country": "international",
     "updated_at": "2026-09-25T08:25:34+00:00",
     "date_discovered": "2026-09-25T09:02:03.780521+00:00"
+  },
+  {
+    "id": 14808565,
+    "company_display": "JPMorgan",
+    "title": "2027 Asset Management - Risk Summer Internship Program - London",
+    "location": "LONDON, United Kingdom",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774894",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-08-31T00:00:00+00:00",
+    "date_discovered": "2026-09-27T20:42:00.946947+00:00"
+  },
+  {
+    "id": 14830999,
+    "company_display": "Mufgub",
+    "title": "Model Risk Management Quant Associate/AVP- Market",
+    "location": "Toronto, ON",
+    "url": "https://mufgub.wd3.myworkdayjobs.com/en-US/MUFG-Careers/job/Toronto-ON/Model-Risk-Management-Quant-Associate-AVP--Market_10079585-WD",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": "2026-09-24T22:17:26.773117+00:00",
+    "date_discovered": "2026-09-27T22:29:13.415843+00:00"
   }
 ]
