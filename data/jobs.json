@@ -407,6 +407,17 @@
     "date_discovered": "2026-09-16T17:07:04.136912+00:00"
   },
   {
+    "id": 10344209,
+    "company_display": "Wellington Management",
+    "title": "Quantitative Trading Co-op",
+    "location": "Boston, MA, USA",
+    "url": "https://wellington.wd5.myworkdayjobs.com/en-US/Campus/job/Boston-MA-United-States/Trading-Research---Analytics-Co-Op_R94827",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-16T19:15:52.943683+00:00",
+    "date_discovered": "2026-09-16T19:16:26.820320+00:00"
+  },
+  {
     "id": 10421323,
     "company_display": "American Century Investments",
     "title": "Quantitative Research Intern",
@@ -416,6 +427,17 @@
     "country": "us",
     "updated_at": "2026-09-16T22:14:16.767156+00:00",
     "date_discovered": "2026-09-16T22:15:40.517116+00:00"
+  },
+  {
+    "id": 10434371,
+    "company_display": "Wellington Management",
+    "title": "Global Risk & Performance Strategy Co Op",
+    "location": "Boston, MA, USA",
+    "url": "https://wellington.wd5.myworkdayjobs.com/en-US/External/job/Boston-MA-United-States/Global-Risk---Performance-Strategy-Co-Op_R94868-1",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-16T22:43:17.506673+00:00",
+    "date_discovered": "2026-09-16T22:44:33.067869+00:00"
   },
   {
     "id": 10770211,
@@ -636,5 +658,49 @@
     "country": "international",
     "updated_at": "2026-09-24T22:17:26.773117+00:00",
     "date_discovered": "2026-09-27T22:29:13.415843+00:00"
+  },
+  {
+    "id": 14961447,
+    "company_display": "Trexquant",
+    "title": "Quantitative Researcher Intern -Summer 2027 year (CHINA)",
+    "location": "Beijing, China",
+    "url": "https://apply.workable.com/j/C08D3575FF/apply",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-09-28T00:00:00+00:00",
+    "date_discovered": "2026-09-28T07:09:59.114718+00:00"
+  },
+  {
+    "id": 15036328,
+    "company_display": "Davinci-Trading",
+    "title": "Graduate Quant",
+    "location": "Amsterdam, North Holland, Netherlands",
+    "url": "https://job-boards.eu.greenhouse.io/davinciderivatives/jobs/4046970101",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": "2026-09-28T11:22:39+00:00",
+    "date_discovered": "2026-09-28T11:36:27.761891+00:00"
+  },
+  {
+    "id": 15120229,
+    "company_display": "Schonfeld Strategic Advisors",
+    "title": "Entry Level Quantitative Researcher",
+    "location": "New York, USA",
+    "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8236826",
+    "skill_level": "entry",
+    "country": "us",
+    "updated_at": "2026-09-28T13:56:53+00:00",
+    "date_discovered": "2026-09-28T14:05:56.192292+00:00"
+  },
+  {
+    "id": 15219356,
+    "company_display": "Man Group",
+    "title": "Trading Summer 2027 Internship",
+    "location": "London",
+    "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4988791101",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-09-28T16:42:31+00:00",
+    "date_discovered": "2026-09-28T17:05:53.731945+00:00"
   }
 ]
