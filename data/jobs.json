@@ -702,5 +702,71 @@
     "country": "international",
     "updated_at": "2026-09-28T16:42:31+00:00",
     "date_discovered": "2026-09-28T17:05:53.731945+00:00"
+  },
+  {
+    "id": 15817135,
+    "company_display": "Schonfeld Strategic Advisors",
+    "title": "2027 Quantitative C++ Developer Intern",
+    "location": "Hong Kong",
+    "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8238451",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-09-29T14:30:14+00:00",
+    "date_discovered": "2026-09-29T14:36:07.062532+00:00"
+  },
+  {
+    "id": 15817139,
+    "company_display": "Schonfeld Strategic Advisors",
+    "title": "2027 Quantitative Research Intern",
+    "location": "Hong Kong",
+    "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8238448",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-09-29T14:31:51+00:00",
+    "date_discovered": "2026-09-29T14:36:07.080268+00:00"
+  },
+  {
+    "id": 15901156,
+    "company_display": "Schonfeld Strategic Advisors",
+    "title": "2027 Risk Analyst (DMFI) Intern",
+    "location": "London, England, United Kingdom",
+    "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8172053",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-09-28T18:20:09+00:00",
+    "date_discovered": "2026-09-29T16:52:01.462957+00:00"
+  },
+  {
+    "id": 15901837,
+    "company_display": "Stepstone-Group",
+    "title": "2026 - 2027 Private Debt Portfolio and Risk Management Intern",
+    "location": "Zurich",
+    "url": "https://www.stepstonegroup.com/current-opportunities/?gh_jid=8237507",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-09-28T17:13:51+00:00",
+    "date_discovered": "2026-09-29T16:52:28.196040+00:00"
+  },
+  {
+    "id": 15908475,
+    "company_display": "Dtcc",
+    "title": "Model Risk Management Intern [2027 Internship Program]",
+    "location": "Jersey City, NJ, USA",
+    "url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214401",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-08-25T00:00:00+00:00",
+    "date_discovered": "2026-09-29T16:58:57.429659+00:00"
+  },
+  {
+    "id": 15976317,
+    "company_display": "Nexteraenergy",
+    "title": "Associate Quantitative Analyst",
+    "location": "Juno, FL",
+    "url": "https://jobs.nexteraenergy.com/job/Juno-Beach-Associate-Quantitative-Analyst-FL-33408/1435000800/",
+    "skill_level": "entry",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-09-29T18:58:39.827459+00:00"
   }
 ]
