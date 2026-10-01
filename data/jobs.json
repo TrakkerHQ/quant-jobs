@@ -528,17 +528,6 @@
     "date_discovered": "2026-09-22T11:11:13.546197+00:00"
   },
   {
-    "id": 12492137,
-    "company_display": "JPMorgan",
-    "title": "2027 Quantitative Research - Risk - Off-Cycle - Associate \u2013 London",
-    "location": "LONDON, United Kingdom",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210776873",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-08-31T00:00:00+00:00",
-    "date_discovered": "2026-09-22T11:11:34.732294+00:00"
-  },
-  {
     "id": 12494083,
     "company_display": "Brevan-Howard",
     "title": "2027 Summer Internship Program - AI & Quantitative Analyst, London",
@@ -561,17 +550,6 @@
     "date_discovered": "2026-09-22T22:45:06.214832+00:00"
   },
   {
-    "id": 13006785,
-    "company_display": "JPMorgan",
-    "title": "Quant Analytics Associate",
-    "location": "Bengaluru, Karnataka, India",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210728706",
-    "skill_level": "entry",
-    "country": "international",
-    "updated_at": "2026-09-23T00:00:00+00:00",
-    "date_discovered": "2026-09-23T11:16:06.946887+00:00"
-  },
-  {
     "id": 13070682,
     "company_display": "Neuberger Berman",
     "title": "Quantitative 2027 Summer Intern",
@@ -581,17 +559,6 @@
     "country": "us",
     "updated_at": "2026-09-23T13:43:10.496166+00:00",
     "date_discovered": "2026-09-23T13:44:28.339958+00:00"
-  },
-  {
-    "id": 13075656,
-    "company_display": "JPMorgan",
-    "title": "Quant Analytics Associate -Digital",
-    "location": "Mumbai, Maharashtra, India",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210792867",
-    "skill_level": "entry",
-    "country": "international",
-    "updated_at": "2026-09-23T00:00:00+00:00",
-    "date_discovered": "2026-09-23T13:48:14.552791+00:00"
   },
   {
     "id": 13116390,
@@ -759,14 +726,25 @@
     "date_discovered": "2026-09-29T16:58:57.429659+00:00"
   },
   {
-    "id": 15976317,
-    "company_display": "Nexteraenergy",
-    "title": "Associate Quantitative Analyst",
-    "location": "Juno, FL",
-    "url": "https://jobs.nexteraenergy.com/job/Juno-Beach-Associate-Quantitative-Analyst-FL-33408/1435000800/",
-    "skill_level": "entry",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-29T18:58:39.827459+00:00"
+    "id": 16537190,
+    "company_display": "Ing",
+    "title": "Internship - Monte Carlo Models for Counterparty Credit Risk",
+    "location": "CDR (Amsterdam - Cedar)",
+    "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/CDR-Amsterdam---Cedar/Internship---Monte-Carlo-Models-for-Counterparty-Credit-Risk_REQ-10122476",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-09-30T15:19:38.563010+00:00",
+    "date_discovered": "2026-09-30T15:19:41.499871+00:00"
+  },
+  {
+    "id": 16695323,
+    "company_display": "Capstone-Investment-Advisors",
+    "title": "Summer 2027 - Quant Internship",
+    "location": "London",
+    "url": "https://job-boards.greenhouse.io/capstoneinvestmentadvisors/jobs/8859054002",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-09-30T19:41:10+00:00",
+    "date_discovered": "2026-09-30T20:06:43.299267+00:00"
   }
 ]
