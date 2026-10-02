@@ -726,6 +726,17 @@
     "date_discovered": "2026-09-29T16:58:57.429659+00:00"
   },
   {
+    "id": 16486775,
+    "company_display": "Robeco",
+    "title": "Super quant internship 2027",
+    "location": "The Netherlands, Rotterdam",
+    "url": "https://robeco.wd3.myworkdayjobs.com/en-US/robecoexternalcareers/job/The-Netherlands-Rotterdam/Super-quant-internship-2027_R2261",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-09-30T13:50:07.334950+00:00",
+    "date_discovered": "2026-09-30T13:50:08.063645+00:00"
+  },
+  {
     "id": 16537190,
     "company_display": "Ing",
     "title": "Internship - Monte Carlo Models for Counterparty Credit Risk",
@@ -746,5 +757,27 @@
     "country": "international",
     "updated_at": "2026-09-30T19:41:10+00:00",
     "date_discovered": "2026-09-30T20:06:43.299267+00:00"
+  },
+  {
+    "id": 17202481,
+    "company_display": "Old Mission Capital",
+    "title": "Quantitative Trader - 2027 Micro-Internship Program (January Start)",
+    "location": "Chicago, IL, USA",
+    "url": "https://www.oldmissioncapital.com/careers/?gh_jid=8002345003",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-01T14:06:48+00:00",
+    "date_discovered": "2026-10-01T14:35:16.736493+00:00"
+  },
+  {
+    "id": 17220247,
+    "company_display": "IMC Trading",
+    "title": "AAR - 2027 - Graduate Trader",
+    "location": "Aarhus, Central Denmark Region, Denmark",
+    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4966569101",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": "2026-10-01T14:51:21+00:00",
+    "date_discovered": "2026-10-01T15:05:21.428116+00:00"
   }
 ]
