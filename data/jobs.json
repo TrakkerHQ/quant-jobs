@@ -779,5 +779,27 @@
     "country": "international",
     "updated_at": "2026-10-01T14:51:21+00:00",
     "date_discovered": "2026-10-01T15:05:21.428116+00:00"
+  },
+  {
+    "id": 17790078,
+    "company_display": "Franklin-Templeton",
+    "title": "Intern - Fixed Income Sustainability Team",
+    "location": "Poznan, Poland",
+    "url": "https://franklintempleton.wd5.myworkdayjobs.com/Primary-External-1/job/Poznan-Poland/Intern---Fixed-Income-Sustainability-Team_869913/apply",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-02T00:00:00+00:00",
+    "date_discovered": "2026-10-02T10:12:53.260178+00:00"
+  },
+  {
+    "id": 18216331,
+    "company_display": "Cboe",
+    "title": "Quant & Data Analytics Intern",
+    "location": "Chicago, Illinois, USA",
+    "url": "https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE/job/Chicago-IL/Quant---Data-Analytics-Intern_R-4708/apply",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-02T00:00:00+00:00",
+    "date_discovered": "2026-10-02T22:47:36.740435+00:00"
   }
 ]
