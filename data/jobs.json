@@ -715,17 +715,6 @@
     "date_discovered": "2026-09-30T13:50:08.063645+00:00"
   },
   {
-    "id": 16537190,
-    "company_display": "Ing",
-    "title": "Internship - Monte Carlo Models for Counterparty Credit Risk",
-    "location": "CDR (Amsterdam - Cedar)",
-    "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/CDR-Amsterdam---Cedar/Internship---Monte-Carlo-Models-for-Counterparty-Credit-Risk_REQ-10122476",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-09-30T15:19:38.563010+00:00",
-    "date_discovered": "2026-09-30T15:19:41.499871+00:00"
-  },
-  {
     "id": 16695323,
     "company_display": "Capstone-Investment-Advisors",
     "title": "Summer 2027 - Quant Internship",
@@ -779,5 +768,16 @@
     "country": "us",
     "updated_at": "2026-10-02T00:00:00+00:00",
     "date_discovered": "2026-10-02T22:47:36.740435+00:00"
+  },
+  {
+    "id": 18398056,
+    "company_display": "Engineers-Gate",
+    "title": "Quantitative Research Intern",
+    "location": "New York",
+    "url": "https://job-boards.greenhouse.io/engineersgate/jobs/8249666",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-06T18:36:36+00:00",
+    "date_discovered": "2026-10-06T18:37:05.040454+00:00"
   }
 ]
