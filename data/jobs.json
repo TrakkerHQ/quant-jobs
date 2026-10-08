@@ -561,28 +561,6 @@
     "date_discovered": "2026-09-23T13:44:28.339958+00:00"
   },
   {
-    "id": 13116390,
-    "company_display": "Jump Trading",
-    "title": "Campus Quantitative Researcher (Full-Time)",
-    "location": "London; Amsterdam",
-    "url": "https://www.jumptrading.com/hr/job?gh_jid=8050796",
-    "skill_level": "entry",
-    "country": "international",
-    "updated_at": "2026-08-08T05:01:49+00:00",
-    "date_discovered": "2026-09-23T15:19:26.940818+00:00"
-  },
-  {
-    "id": 13116399,
-    "company_display": "Jump Trading",
-    "title": "Campus Quantitative Trader (Full-Time)",
-    "location": "London; Amsterdam",
-    "url": "https://www.jumptrading.com/hr/job?gh_jid=8050801",
-    "skill_level": "entry",
-    "country": "international",
-    "updated_at": "2026-08-08T05:01:49+00:00",
-    "date_discovered": "2026-09-23T15:19:27.921675+00:00"
-  },
-  {
     "id": 13401024,
     "company_display": "DV Trading",
     "title": "2027 Quantitative Researcher Graduate (DV Equities)",
@@ -779,5 +757,38 @@
     "country": "us",
     "updated_at": "2026-10-06T18:36:36+00:00",
     "date_discovered": "2026-10-06T18:37:05.040454+00:00"
+  },
+  {
+    "id": 18403459,
+    "company_display": "Flow Traders",
+    "title": "Summer Trading Internship",
+    "location": "Amsterdam",
+    "url": "https://job-boards.greenhouse.io/flowtraders/jobs/8260920",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-07T14:37:51+00:00",
+    "date_discovered": "2026-10-07T15:06:16.837204+00:00"
+  },
+  {
+    "id": 18404394,
+    "company_display": "Moodys",
+    "title": "Quantitative Analytics and Modeling Summer Intern",
+    "location": "Frankfurt am Main, Hesse",
+    "url": "https://careers.moodys.com/en/job/frankfurt-am-main/quantitative-analytics-and-modeling-summer-intern/49841/101661854496",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-10-07T17:40:29.387827+00:00"
+  },
+  {
+    "id": 18406435,
+    "company_display": "Goldman Sachs",
+    "title": "2027 | Americas | New York City Area | Asset Management, Quantitative Investing | Summer Analyst",
+    "location": "New York, NY, USA",
+    "url": "https://higher.gs.com/roles/155950",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-10-07T23:38:02.443681+00:00"
   }
 ]
