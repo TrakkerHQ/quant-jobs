@@ -790,5 +790,27 @@
     "country": "us",
     "updated_at": null,
     "date_discovered": "2026-10-07T23:38:02.443681+00:00"
+  },
+  {
+    "id": 18410370,
+    "company_display": "Fidelity",
+    "title": "Fidelity Strategic Advisors Inc, Investment Trading Research Internship",
+    "location": "Dublin, Ireland",
+    "url": "https://fmr.wd1.myworkdayjobs.com/en-US/FidelityCareers/job/Dublin-Ireland/Intern_2136759-1",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-08T15:45:40.149707+00:00",
+    "date_discovered": "2026-10-08T15:45:48.679649+00:00"
+  },
+  {
+    "id": 18411347,
+    "company_display": "Occ",
+    "title": "Summer Intern - Market Risk",
+    "location": "Chicago - 125 S Franklin",
+    "url": "https://theocc.wd5.myworkdayjobs.com/en-US/careers/job/Chicago---125-S-Franklin/Summer-Intern---Market-Risk_REQ-4889",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-08T18:50:18.371200+00:00",
+    "date_discovered": "2026-10-08T18:50:18.900911+00:00"
   }
 ]
