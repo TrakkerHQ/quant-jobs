@@ -1,16 +1,5 @@
 [
   {
-    "id": 7655793,
-    "company_display": "Coinbase",
-    "title": "Credit Risk Intern",
-    "location": "Hybrid - New York, NY",
-    "url": "https://www.coinbase.com/careers/positions/8175369?gh_jid=8175369",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-09T00:03:44+00:00",
-    "date_discovered": "2026-09-09T00:05:33.132238+00:00"
-  },
-  {
     "id": 7867828,
     "company_display": "Barclays",
     "title": "2027 Quantitative Analytics Associate Graduate Programme London",
@@ -759,28 +748,6 @@
     "date_discovered": "2026-10-06T18:37:05.040454+00:00"
   },
   {
-    "id": 18403459,
-    "company_display": "Flow Traders",
-    "title": "Summer Trading Internship",
-    "location": "Amsterdam",
-    "url": "https://job-boards.greenhouse.io/flowtraders/jobs/8260920",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-10-07T14:37:51+00:00",
-    "date_discovered": "2026-10-07T15:06:16.837204+00:00"
-  },
-  {
-    "id": 18404394,
-    "company_display": "Moodys",
-    "title": "Quantitative Analytics and Modeling Summer Intern",
-    "location": "Frankfurt am Main, Hesse",
-    "url": "https://careers.moodys.com/en/job/frankfurt-am-main/quantitative-analytics-and-modeling-summer-intern/49841/101661854496",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-10-07T17:40:29.387827+00:00"
-  },
-  {
     "id": 18406435,
     "company_display": "Goldman Sachs",
     "title": "2027 | Americas | New York City Area | Asset Management, Quantitative Investing | Summer Analyst",
@@ -812,5 +779,49 @@
     "country": "us",
     "updated_at": "2026-10-08T18:50:18.371200+00:00",
     "date_discovered": "2026-10-08T18:50:18.900911+00:00"
+  },
+  {
+    "id": 18414998,
+    "company_display": "Mufgub",
+    "title": "2027 MUFG UK Analyst Programme:",
+    "location": "London",
+    "url": "https://mufgub.wd3.myworkdayjobs.com/en-US/MUFG-Careers/job/London/XMLNAME-2027-MUFG-UK-Analyst-Programme-_10080071-WD-1",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": "2026-10-09T09:11:49.596625+00:00",
+    "date_discovered": "2026-10-09T09:11:54.998004+00:00"
+  },
+  {
+    "id": 18414999,
+    "company_display": "Mufgub",
+    "title": "2027 MUFG UK Summer Analyst Programme: Global Markets \u2013 Markets Engineering",
+    "location": "London",
+    "url": "https://mufgub.wd3.myworkdayjobs.com/en-US/MUFG-Careers/job/London/XMLNAME-2027-MUFG-UK-Summer-Analyst-Programme--Global-Markets---Markets-Engineering_10080069-WD-1",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-09T09:11:49.616147+00:00",
+    "date_discovered": "2026-10-09T09:11:55.063407+00:00"
+  },
+  {
+    "id": 18416160,
+    "company_display": "Schonfeld Strategic Advisors",
+    "title": "2027 Quantitative Developer Intern",
+    "location": "Austin, Texas, USA",
+    "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8267092",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-09T13:57:10+00:00",
+    "date_discovered": "2026-10-09T14:06:03.742994+00:00"
+  },
+  {
+    "id": 18416161,
+    "company_display": "Schonfeld Strategic Advisors",
+    "title": "2027 Quantitative Research Intern",
+    "location": "Austin, Texas, USA",
+    "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8267120",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-09T13:58:43+00:00",
+    "date_discovered": "2026-10-09T14:06:03.773225+00:00"
   }
 ]
