@@ -1,38 +1,5 @@
 [
   {
-    "id": 7867828,
-    "company_display": "Barclays",
-    "title": "2027 Quantitative Analytics Associate Graduate Programme London",
-    "location": "Canary Wharf, 1 Churchill Place",
-    "url": "https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/XMLNAME-2027-Quantitative-Analytics-Associate-Graduate-Programme-London_JR-0000129352",
-    "skill_level": "entry",
-    "country": "international",
-    "updated_at": "2026-09-09T16:39:53.839937+00:00",
-    "date_discovered": "2026-09-09T16:41:27.444565+00:00"
-  },
-  {
-    "id": 7876926,
-    "company_display": "Barclays",
-    "title": "2027 Quantitative Analytics Associate Graduate Programme Glasgow",
-    "location": "Glasgow Campus",
-    "url": "https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Quantitative-Analytics-Associate-Graduate-Programme-Glasgow_JR-0000129392",
-    "skill_level": "entry",
-    "country": "international",
-    "updated_at": "2026-09-09T17:10:08.966840+00:00",
-    "date_discovered": "2026-09-09T17:11:22.604702+00:00"
-  },
-  {
-    "id": 7970445,
-    "company_display": "Radix-Trading",
-    "title": "Quantitative Technologist (C++ Intern)",
-    "location": "Chicago",
-    "url": "https://job-boards.greenhouse.io/radixuniversity/jobs/8500265002",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-09T05:01:33+00:00",
-    "date_discovered": "2026-09-09T22:04:36.678132+00:00"
-  },
-  {
     "id": 8007337,
     "company_display": "USAA",
     "title": "Quantitative Risk Analyst Intern",
@@ -823,5 +790,82 @@
     "country": "us",
     "updated_at": "2026-10-09T13:58:43+00:00",
     "date_discovered": "2026-10-09T14:06:03.773225+00:00"
+  },
+  {
+    "id": 18422101,
+    "company_display": "Chicago Trading Company",
+    "title": "Quant Trading Internship - Summer 2027",
+    "location": "London, England, United Kingdom",
+    "url": "https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4718710005",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-09-11T15:33:23+00:00",
+    "date_discovered": "2026-10-10T20:10:48.510999+00:00"
+  },
+  {
+    "id": 18422102,
+    "company_display": "Chicago Trading Company",
+    "title": "Quant Trading Internship - Summer 2027",
+    "location": "Chicago, Illinois, USA",
+    "url": "https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716930005",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-11T15:33:23+00:00",
+    "date_discovered": "2026-10-10T20:10:48.573203+00:00"
+  },
+  {
+    "id": 18422162,
+    "company_display": "Marshall Wace",
+    "title": "Quant Developer Intern - Hong Kong 2027",
+    "location": "Hong Kong",
+    "url": "https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8857614002",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-07T10:27:54+00:00",
+    "date_discovered": "2026-10-10T20:11:23.531033+00:00"
+  },
+  {
+    "id": 18422174,
+    "company_display": "DRW",
+    "title": "Quantitative Trading Analyst Intern - IAP Winternship",
+    "location": "Chicago, IL",
+    "url": "https://job-boards.greenhouse.io/drwuniversityjobs/jobs/8259714",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-06T19:41:24+00:00",
+    "date_discovered": "2026-10-10T20:12:01.242770+00:00"
+  },
+  {
+    "id": 18422187,
+    "company_display": "Graviton Research Capital",
+    "title": "Graduate Central Execution Trader",
+    "location": "Singapore",
+    "url": "https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8862376002",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": "2026-10-02T02:07:12+00:00",
+    "date_discovered": "2026-10-10T20:12:24.035554+00:00"
+  },
+  {
+    "id": 18422281,
+    "company_display": "HRT",
+    "title": "Algorithm Development (Quant Research & Trading) Internship \u2013 Summer 2027",
+    "location": "London, United Kingdom; New York, NY, United States; Singapore",
+    "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7964062",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-07T17:25:59+00:00",
+    "date_discovered": "2026-10-10T20:12:30.985851+00:00"
+  },
+  {
+    "id": 18422288,
+    "company_display": "HRT",
+    "title": "Women in Trading and Technology Internship (WiTTI) \u2013 Winter 2027",
+    "location": "New York, NY, USA",
+    "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8188637",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-07T17:25:59+00:00",
+    "date_discovered": "2026-10-10T20:12:31.200997+00:00"
   }
 ]
