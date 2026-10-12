@@ -1,27 +1,5 @@
 [
   {
-    "id": 8007337,
-    "company_display": "USAA",
-    "title": "Quantitative Risk Analyst Intern",
-    "location": "San Antonio Home Office I",
-    "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Quantitative-Risk-Analyst-Intern_R0120753",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-10T01:44:42.683579+00:00",
-    "date_discovered": "2026-09-10T01:44:55.080326+00:00"
-  },
-  {
-    "id": 8145799,
-    "company_display": "Geneva Trading",
-    "title": "Quantitative Trading Internship \u2013 Summer 2027",
-    "location": "Chicago Office",
-    "url": "https://job-boards.greenhouse.io/genevatrading/jobs/5232641007",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-10T18:20:09+00:00",
-    "date_discovered": "2026-09-10T18:23:22.960990+00:00"
-  },
-  {
     "id": 8473543,
     "company_display": "DV Trading",
     "title": "2027 Quantitative Trader Graduate (DV Equities)",
@@ -42,28 +20,6 @@
     "country": "us",
     "updated_at": "2026-09-11T14:38:34+00:00",
     "date_discovered": "2026-09-11T14:43:57.793262+00:00"
-  },
-  {
-    "id": 8796541,
-    "company_display": "Brevan-Howard",
-    "title": "2027 Summer Internship Program \u2013 Systematic Trading, New York",
-    "location": "New York",
-    "url": "https://brevanhoward.wd3.myworkdayjobs.com/en-US/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Trading--New-York_JR101591",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-10T07:44:21.079343+00:00",
-    "date_discovered": "2026-09-12T07:44:49.301740+00:00"
-  },
-  {
-    "id": 8796542,
-    "company_display": "Brevan-Howard",
-    "title": "2027 Summer Internship Program \u2013 Systematic Data Strategy, New York",
-    "location": "New York",
-    "url": "https://brevanhoward.wd3.myworkdayjobs.com/en-US/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Data-Strategy--New-York_JR101596",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-10T07:44:21.087818+00:00",
-    "date_discovered": "2026-09-12T07:44:49.341623+00:00"
   },
   {
     "id": 9076444,
@@ -537,17 +493,6 @@
     "country": "international",
     "updated_at": "2026-09-25T08:25:34+00:00",
     "date_discovered": "2026-09-25T09:02:03.780521+00:00"
-  },
-  {
-    "id": 14808565,
-    "company_display": "JPMorgan",
-    "title": "2027 Asset Management - Risk Summer Internship Program - London",
-    "location": "LONDON, United Kingdom",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774894",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-08-31T00:00:00+00:00",
-    "date_discovered": "2026-09-27T20:42:00.946947+00:00"
   },
   {
     "id": 14830971,
