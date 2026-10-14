@@ -1,16 +1,5 @@
 [
   {
-    "id": 9076444,
-    "company_display": "JPMorgan",
-    "title": "2027 Markets Quantitative Trading & Research Analyst Program \u2013 Off-Cycle Internship - Singapore",
-    "location": "Singapore",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210784366",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-09-13T00:00:00+00:00",
-    "date_discovered": "2026-09-13T17:06:45.020638+00:00"
-  },
-  {
     "id": 9197200,
     "company_display": "JPMorgan",
     "title": "2027 Markets Quantitative Trading & Research Analyst Program \u2013 Off-Cycle Internship - Hong Kong",
@@ -550,17 +539,6 @@
     "date_discovered": "2026-09-29T16:52:28.196040+00:00"
   },
   {
-    "id": 15908475,
-    "company_display": "Dtcc",
-    "title": "Model Risk Management Intern [2027 Internship Program]",
-    "location": "Jersey City, NJ, USA",
-    "url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214401",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-08-25T00:00:00+00:00",
-    "date_discovered": "2026-09-29T16:58:57.429659+00:00"
-  },
-  {
     "id": 16486775,
     "company_display": "Robeco",
     "title": "Super quant internship 2027",
@@ -603,28 +581,6 @@
     "country": "international",
     "updated_at": "2026-10-01T14:51:21+00:00",
     "date_discovered": "2026-10-01T15:05:21.428116+00:00"
-  },
-  {
-    "id": 17790078,
-    "company_display": "Franklin-Templeton",
-    "title": "Intern - Fixed Income Sustainability Team",
-    "location": "Poznan, Poland",
-    "url": "https://franklintempleton.wd5.myworkdayjobs.com/Primary-External-1/job/Poznan-Poland/Intern---Fixed-Income-Sustainability-Team_869913/apply",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-10-02T00:00:00+00:00",
-    "date_discovered": "2026-10-02T10:12:53.260178+00:00"
-  },
-  {
-    "id": 18216331,
-    "company_display": "Cboe",
-    "title": "Quant & Data Analytics Intern",
-    "location": "Chicago, Illinois, USA",
-    "url": "https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE/job/Chicago-IL/Quant---Data-Analytics-Intern_R-4708/apply",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-02T00:00:00+00:00",
-    "date_discovered": "2026-10-02T22:47:36.740435+00:00"
   },
   {
     "id": 18406435,
@@ -680,28 +636,6 @@
     "country": "international",
     "updated_at": "2026-10-09T09:11:49.616147+00:00",
     "date_discovered": "2026-10-09T09:11:55.063407+00:00"
-  },
-  {
-    "id": 18416160,
-    "company_display": "Schonfeld Strategic Advisors",
-    "title": "2027 Quantitative Developer Intern",
-    "location": "Austin, Texas, USA",
-    "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8267092",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-09T13:57:10+00:00",
-    "date_discovered": "2026-10-09T14:06:03.742994+00:00"
-  },
-  {
-    "id": 18416161,
-    "company_display": "Schonfeld Strategic Advisors",
-    "title": "2027 Quantitative Research Intern",
-    "location": "Austin, Texas, USA",
-    "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8267120",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-09T13:58:43+00:00",
-    "date_discovered": "2026-10-09T14:06:03.773225+00:00"
   },
   {
     "id": 18422101,
@@ -790,5 +724,16 @@
     "country": "international",
     "updated_at": null,
     "date_discovered": "2026-10-12T14:37:46.659782+00:00"
+  },
+  {
+    "id": 18435773,
+    "company_display": "Acadian-Asset-Management",
+    "title": "Quantitative Investment Internship Program - Summer 2027",
+    "location": "Boston, Massachusetts, USA",
+    "url": "https://www.acadian-asset.com/careers/open-positions?gh_jid=4720681006",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-13T18:47:55+00:00",
+    "date_discovered": "2026-10-13T19:06:26.660298+00:00"
   }
 ]
