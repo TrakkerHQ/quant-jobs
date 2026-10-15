@@ -1,16 +1,5 @@
 [
   {
-    "id": 9197200,
-    "company_display": "JPMorgan",
-    "title": "2027 Markets Quantitative Trading & Research Analyst Program \u2013 Off-Cycle Internship - Hong Kong",
-    "location": "Hong Kong",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210784371",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-09-14T00:00:00+00:00",
-    "date_discovered": "2026-09-14T06:11:19.442515+00:00"
-  },
-  {
     "id": 9286636,
     "company_display": "Davinci-Trading",
     "title": "Graduate Quant",
@@ -583,6 +572,39 @@
     "date_discovered": "2026-10-01T15:05:21.428116+00:00"
   },
   {
+    "id": 17790078,
+    "company_display": "Franklin-Templeton",
+    "title": "Intern - Fixed Income Sustainability Team",
+    "location": "Poznan, Poland",
+    "url": "https://franklintempleton.wd5.myworkdayjobs.com/Primary-External-1/job/Poznan-Poland/Intern---Fixed-Income-Sustainability-Team_869913/apply",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-02T00:00:00+00:00",
+    "date_discovered": "2026-10-02T10:12:53.260178+00:00"
+  },
+  {
+    "id": 18216331,
+    "company_display": "Cboe",
+    "title": "Quant & Data Analytics Intern",
+    "location": "Chicago, Illinois, USA",
+    "url": "https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE/job/Chicago-IL/Quant---Data-Analytics-Intern_R-4708/apply",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-02T00:00:00+00:00",
+    "date_discovered": "2026-10-02T22:47:36.740435+00:00"
+  },
+  {
+    "id": 18403459,
+    "company_display": "Flow Traders",
+    "title": "Summer Trading Internship",
+    "location": "Amsterdam",
+    "url": "https://job-boards.greenhouse.io/flowtraders/jobs/8260920",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-07T14:37:51+00:00",
+    "date_discovered": "2026-10-07T15:06:16.837204+00:00"
+  },
+  {
     "id": 18406435,
     "company_display": "Goldman Sachs",
     "title": "2027 | Americas | New York City Area | Asset Management, Quantitative Investing | Summer Analyst",
@@ -735,5 +757,82 @@
     "country": "us",
     "updated_at": "2026-10-13T18:47:55+00:00",
     "date_discovered": "2026-10-13T19:06:26.660298+00:00"
+  },
+  {
+    "id": 18440745,
+    "company_display": "Factset",
+    "title": "Associate Analytics Product Specialist",
+    "location": "New York, NY, USA; Chicago, IL, USA; United States, Boston, One Beacon Street; United States, Los Angeles, Temporary Remote (Los Angeles); San Francisco, CA, USA",
+    "url": "https://factset.wd108.myworkdayjobs.com/en-US/FactSetCareers/job/New-York-NY-USA/Associate-Analytics-Product-Specialist_R31702",
+    "skill_level": "entry",
+    "country": "remote",
+    "updated_at": "2026-10-14T14:19:36.206549+00:00",
+    "date_discovered": "2026-10-14T14:19:36.638172+00:00"
+  },
+  {
+    "id": 18440911,
+    "company_display": "Bpinternational",
+    "title": "One Year Internship - Supply, Trading & Shipping - UK",
+    "location": "United Kingdom - London",
+    "url": "https://bpinternational.wd3.myworkdayjobs.com/en-US/bpCareers/job/United-Kingdom---London/One-Year-Internship---Supply--Trading---Shipping---UK_RQ117139-2",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-14T14:49:07.521877+00:00",
+    "date_discovered": "2026-10-14T14:49:08.309494+00:00"
+  },
+  {
+    "id": 18441341,
+    "company_display": "Lseg",
+    "title": "Intern - Finance Engineer",
+    "location": "New York City, USA",
+    "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Graduate_Careers/job/New-York-City-United-States/Intern---Finance-Engineer_R0124268",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-14T16:17:28.530808+00:00",
+    "date_discovered": "2026-10-14T16:17:31.707095+00:00"
+  },
+  {
+    "id": 18441342,
+    "company_display": "Lseg",
+    "title": "Intern - Quantitative Services",
+    "location": "London, United Kingdom",
+    "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Graduate_Careers/job/London-United-Kingdom/Intern---Quantitative-Services_R0124311-2",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-14T16:17:28.532689+00:00",
+    "date_discovered": "2026-10-14T16:17:31.732404+00:00"
+  },
+  {
+    "id": 18441343,
+    "company_display": "Lseg",
+    "title": "Intern - Finance Engineer",
+    "location": "London, United Kingdom",
+    "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Graduate_Careers/job/London-United-Kingdom/Intern---Finance-Engineer_R0124269",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-14T16:17:28.532809+00:00",
+    "date_discovered": "2026-10-14T16:17:31.769191+00:00"
+  },
+  {
+    "id": 18441344,
+    "company_display": "Lseg",
+    "title": "Intern - Quantitative Services",
+    "location": "Boston, Massachusetts",
+    "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Graduate_Careers/job/Boston-Massachusetts/Intern---Quantitative-Services_R0124310-2",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-14T16:17:28.532903+00:00",
+    "date_discovered": "2026-10-14T16:17:31.778894+00:00"
+  },
+  {
+    "id": 18442002,
+    "company_display": "Rbc",
+    "title": "Summer 2027 Global Asset Management Investment Risk Internship - Minneapolis, MN",
+    "location": "Minneapolis, Minnesota, USA",
+    "url": "https://rbc.wd3.myworkdayjobs.com/en-US/RBCEARLYTALENT1/job/Minneapolis-Minnesota-United-States-of-America/XMLNAME-2027-Summer-Internship---GAM-Investment-Risk_R-0000189986",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-14T18:18:17.153082+00:00",
+    "date_discovered": "2026-10-14T18:18:18.774101+00:00"
   }
 ]
