@@ -1,115 +1,5 @@
 [
   {
-    "id": 9286636,
-    "company_display": "Davinci-Trading",
-    "title": "Graduate Quant",
-    "location": "Miami, Florida, USA",
-    "url": "https://job-boards.eu.greenhouse.io/davinciderivatives/jobs/4241558101",
-    "skill_level": "entry",
-    "country": "us",
-    "updated_at": "2026-09-14T13:44:03+00:00",
-    "date_discovered": "2026-09-14T14:08:56.415040+00:00"
-  },
-  {
-    "id": 9290196,
-    "company_display": "Ameriprise",
-    "title": "Quantitative Investment Research Co-op (Equities)",
-    "location": "Boston, Massachusetts",
-    "url": "https://ameriprise.wd5.myworkdayjobs.com/en-US/Ameriprise/job/Boston-Massachusetts/Quantitative-Investment-Research-Co-op--Equities-_R26_3532",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-14T14:11:37.811714+00:00",
-    "date_discovered": "2026-09-14T14:14:06.518594+00:00"
-  },
-  {
-    "id": 9299879,
-    "company_display": "HRT",
-    "title": "Women in Trading and Technology Internship (WiTTI) \u2013 Winter 2027",
-    "location": "New York",
-    "url": "https://www.hudsonrivertrading.com/hrt-job/women-in-trading-and-technology-internship-witti-winter-2027/",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-14T14:40:14.074451+00:00"
-  },
-  {
-    "id": 9311510,
-    "company_display": "Walleye-Capital",
-    "title": "Convertible Arbitrage Analyst Intern (Winter 2027)",
-    "location": "Middleton, MA",
-    "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4711798006",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-14T14:57:16+00:00",
-    "date_discovered": "2026-09-14T15:08:42.046599+00:00"
-  },
-  {
-    "id": 9359093,
-    "company_display": "ExodusPoint Capital Management",
-    "title": "Quant Intern (Credit) - Philadelphia - December 2026",
-    "location": "Wynnewood, PA",
-    "url": "https://job-boards.greenhouse.io/exoduspoint/jobs/8806119002",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-14T17:00:42+00:00",
-    "date_discovered": "2026-09-14T17:06:56.345276+00:00"
-  },
-  {
-    "id": 9369428,
-    "company_display": "Brevan-Howard",
-    "title": "2027 Summer Internship Program \u2013 AI & Quantitative Analyst, New York",
-    "location": "New York",
-    "url": "https://brevanhoward.wd3.myworkdayjobs.com/en-US/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---AI---Quantitative-Analyst--New-York_JR101602",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-14T17:19:11.339463+00:00",
-    "date_discovered": "2026-09-14T17:19:49.483901+00:00"
-  },
-  {
-    "id": 9398456,
-    "company_display": "Bmo",
-    "title": "Quantitative Developer (Alpha Research Team) - GAM, Summer 2027 (Co-op/Internship) - 12 months",
-    "location": "Toronto, ON, CAN",
-    "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Quantitative-Developer--Alpha-Research-Team----GAM--Summer-2027--Co-op-Internship----12-months_R260026715-3",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-09-14T18:37:16.018653+00:00",
-    "date_discovered": "2026-09-14T18:39:19.024748+00:00"
-  },
-  {
-    "id": 9403603,
-    "company_display": "Rbc",
-    "title": "2027 Capital Markets, Global Equities, Quantitative Trading Analyst (16 Months, Co-op)",
-    "location": "TORONTO, Ontario, Canada",
-    "url": "https://rbc.wd3.myworkdayjobs.com/en-US/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--Quantitative-Trading-Analyst--16-Months--Co-op-_R-0000187742",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-09-14T18:45:21.800736+00:00",
-    "date_discovered": "2026-09-14T18:45:59.237132+00:00"
-  },
-  {
-    "id": 9428193,
-    "company_display": "Rbc",
-    "title": "2027 Capital Markets, Global Equities, AI Engineer (16 Months, Co-op)",
-    "location": "TORONTO, Ontario, Canada",
-    "url": "https://rbc.wd3.myworkdayjobs.com/en-US/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--AI-Engineer--16-Months--Co-op-_R-0000187401-1",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-09-14T19:41:50.949420+00:00",
-    "date_discovered": "2026-09-14T19:45:31.071545+00:00"
-  },
-  {
-    "id": 9520877,
-    "company_display": "BlackRock",
-    "title": "2027 Quantitative Masters Internship Programme - Investments - Quantitative Investing - London",
-    "location": "London, Greater London",
-    "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/London-Greater-London/XMLNAME-2027-Quantitative-Masters-Internship-Programme---Investments---Quantitative-Investing---London_R266465",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-09-14T23:30:30.780810+00:00",
-    "date_discovered": "2026-09-14T23:31:18.002507+00:00"
-  },
-  {
     "id": 9624729,
     "company_display": "BlackRock",
     "title": "2027 Quantitative Masters Internship Program - Investments - Global Capital Markets - New York",
@@ -594,17 +484,6 @@
     "date_discovered": "2026-10-02T22:47:36.740435+00:00"
   },
   {
-    "id": 18403459,
-    "company_display": "Flow Traders",
-    "title": "Summer Trading Internship",
-    "location": "Amsterdam",
-    "url": "https://job-boards.greenhouse.io/flowtraders/jobs/8260920",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-10-07T14:37:51+00:00",
-    "date_discovered": "2026-10-07T15:06:16.837204+00:00"
-  },
-  {
     "id": 18406435,
     "company_display": "Goldman Sachs",
     "title": "2027 | Americas | New York City Area | Asset Management, Quantitative Investing | Summer Analyst",
@@ -757,28 +636,6 @@
     "country": "us",
     "updated_at": "2026-10-13T18:47:55+00:00",
     "date_discovered": "2026-10-13T19:06:26.660298+00:00"
-  },
-  {
-    "id": 18440745,
-    "company_display": "Factset",
-    "title": "Associate Analytics Product Specialist",
-    "location": "New York, NY, USA; Chicago, IL, USA; United States, Boston, One Beacon Street; United States, Los Angeles, Temporary Remote (Los Angeles); San Francisco, CA, USA",
-    "url": "https://factset.wd108.myworkdayjobs.com/en-US/FactSetCareers/job/New-York-NY-USA/Associate-Analytics-Product-Specialist_R31702",
-    "skill_level": "entry",
-    "country": "remote",
-    "updated_at": "2026-10-14T14:19:36.206549+00:00",
-    "date_discovered": "2026-10-14T14:19:36.638172+00:00"
-  },
-  {
-    "id": 18440911,
-    "company_display": "Bpinternational",
-    "title": "One Year Internship - Supply, Trading & Shipping - UK",
-    "location": "United Kingdom - London",
-    "url": "https://bpinternational.wd3.myworkdayjobs.com/en-US/bpCareers/job/United-Kingdom---London/One-Year-Internship---Supply--Trading---Shipping---UK_RQ117139-2",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-10-14T14:49:07.521877+00:00",
-    "date_discovered": "2026-10-14T14:49:08.309494+00:00"
   },
   {
     "id": 18441341,
