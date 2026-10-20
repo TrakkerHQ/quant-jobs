@@ -1,16 +1,5 @@
 [
   {
-    "id": 11355474,
-    "company_display": "Brattle-Group",
-    "title": "Research Analyst Intern (Economics & Finance) - Summer 2027",
-    "location": "San Francisco, California, USA",
-    "url": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4735519005",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-18T21:01:21+00:00",
-    "date_discovered": "2026-09-18T21:07:40.242990+00:00"
-  },
-  {
     "id": 12017760,
     "company_display": "Brevan-Howard",
     "title": "2027 Summer Internship Program - AI & Quantitative Analyst, Abu Dhabi",
@@ -407,17 +396,6 @@
     "date_discovered": "2026-10-13T19:06:26.660298+00:00"
   },
   {
-    "id": 18440911,
-    "company_display": "Bpinternational",
-    "title": "One Year Internship - Supply, Trading & Shipping - UK",
-    "location": "United Kingdom - London",
-    "url": "https://bpinternational.wd3.myworkdayjobs.com/en-US/bpCareers/job/United-Kingdom---London/One-Year-Internship---Supply--Trading---Shipping---UK_RQ117139-2",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-10-14T14:49:07.521877+00:00",
-    "date_discovered": "2026-10-14T14:49:08.309494+00:00"
-  },
-  {
     "id": 18441341,
     "company_display": "Lseg",
     "title": "Intern - Finance Engineer",
@@ -493,5 +471,38 @@
     "country": "us",
     "updated_at": "2026-10-16T22:18:55.748317+00:00",
     "date_discovered": "2026-10-16T22:18:56.640259+00:00"
+  },
+  {
+    "id": 18462921,
+    "company_display": "Graviton Research Capital",
+    "title": "Quantitative Researcher - 2027 Graduates",
+    "location": "Amsterdam, North Holland, Netherlands; London, England, United Kingdom; New York; Singapore",
+    "url": "https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8899670002",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": "2026-10-19T09:23:17+00:00",
+    "date_discovered": "2026-10-19T10:01:39.707515+00:00"
+  },
+  {
+    "id": 18462922,
+    "company_display": "Graviton Research Capital",
+    "title": "Quantitative Researcher - 2027 Summer Internship",
+    "location": "Amsterdam, North Holland, Netherlands; London, England, United Kingdom; New York; Singapore",
+    "url": "https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8899673002",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-19T09:34:20+00:00",
+    "date_discovered": "2026-10-19T10:01:39.776483+00:00"
+  },
+  {
+    "id": 18463590,
+    "company_display": "Flow Traders",
+    "title": "Graduate Trader",
+    "location": "Amsterdam",
+    "url": "https://job-boards.greenhouse.io/flowtraders/jobs/8064096",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": "2026-10-19T12:13:49+00:00",
+    "date_discovered": "2026-10-19T12:36:24.953553+00:00"
   }
 ]
