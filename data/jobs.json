@@ -1,49 +1,5 @@
 [
   {
-    "id": 12017760,
-    "company_display": "Brevan-Howard",
-    "title": "2027 Summer Internship Program - AI & Quantitative Analyst, Abu Dhabi",
-    "location": "Abu Dhabi",
-    "url": "https://brevanhoward.wd3.myworkdayjobs.com/en-US/BH_ExternalCareers/job/Abu-Dhabi/XMLNAME-2027-Summer-Internship-Program---AI---Quantitative-Analyst--Abu-Dhabi_JR101613",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-09-21T11:48:38.757000+00:00",
-    "date_discovered": "2026-09-21T11:49:18.694004+00:00"
-  },
-  {
-    "id": 12165728,
-    "company_display": "Schonfeld Strategic Advisors",
-    "title": "2027 Emerging Markets and Delta One Investment Analyst Internship",
-    "location": "Dubai, United Arab Emirates",
-    "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8220506",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-09-21T17:17:51+00:00",
-    "date_discovered": "2026-09-21T17:37:53.607001+00:00"
-  },
-  {
-    "id": 12299254,
-    "company_display": "Walleye-Capital",
-    "title": "Equity Volatility Quant Researcher Intern (Summer 2027)",
-    "location": "Miami, FL",
-    "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676334006",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-21T22:15:59+00:00",
-    "date_discovered": "2026-09-21T22:39:45.917103+00:00"
-  },
-  {
-    "id": 12491792,
-    "company_display": "JPMorgan",
-    "title": "2027 Quantitative Research \u2013 Asset Management - Summer Analyst Internship - London",
-    "location": "LONDON, United Kingdom",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210792010",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-09-22T00:00:00+00:00",
-    "date_discovered": "2026-09-22T11:11:13.546197+00:00"
-  },
-  {
     "id": 12494083,
     "company_display": "Brevan-Howard",
     "title": "2027 Summer Internship Program - AI & Quantitative Analyst, London",
@@ -493,5 +449,38 @@
     "country": "international",
     "updated_at": "2026-10-20T10:15:17+00:00",
     "date_discovered": "2026-10-20T11:00:45.178385+00:00"
+  },
+  {
+    "id": 18482878,
+    "company_display": "Schonfeld Strategic Advisors",
+    "title": "2027 Index Rebalancing Quantitative Research Intern",
+    "location": "Hong Kong",
+    "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8311597",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-22T14:11:32+00:00",
+    "date_discovered": "2026-10-22T14:35:59.258829+00:00"
+  },
+  {
+    "id": 18482906,
+    "company_display": "JPMorgan",
+    "title": "2027 Commercial & Investment Banking - Global Markets - Off-cycle Internship \u2013 Paris",
+    "location": "Paris, France",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210802076",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-22T00:00:00+00:00",
+    "date_discovered": "2026-10-22T14:43:17.617873+00:00"
+  },
+  {
+    "id": 18484849,
+    "company_display": "Man Group",
+    "title": "Systematic Quant Intern",
+    "location": "Boston; Massachusetts",
+    "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/5012806101",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-22T20:27:22+00:00",
+    "date_discovered": "2026-10-22T20:36:10.871454+00:00"
   }
 ]
