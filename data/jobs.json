@@ -1,27 +1,5 @@
 [
   {
-    "id": 12494083,
-    "company_display": "Brevan-Howard",
-    "title": "2027 Summer Internship Program - AI & Quantitative Analyst, London",
-    "location": "London",
-    "url": "https://brevanhoward.wd3.myworkdayjobs.com/en-US/BH_ExternalCareers/job/London/AI---Quantitative-Analyst--London_JR101605",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-09-22T11:13:43.035661+00:00",
-    "date_discovered": "2026-09-22T11:14:25.573559+00:00"
-  },
-  {
-    "id": 12802263,
-    "company_display": "HRT",
-    "title": "Data Scientist Intern \u2013 2027",
-    "location": "New York",
-    "url": "https://www.hudsonrivertrading.com/hrt-job/data-scientist-intern-2027/",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-22T22:45:06.214832+00:00"
-  },
-  {
     "id": 13070682,
     "company_display": "Neuberger Berman",
     "title": "Quantitative 2027 Summer Intern",
@@ -482,5 +460,82 @@
     "country": "us",
     "updated_at": "2026-10-22T20:27:22+00:00",
     "date_discovered": "2026-10-22T20:36:10.871454+00:00"
+  },
+  {
+    "id": 18487015,
+    "company_display": "USAA",
+    "title": "Bank Credit Risk Analyst Intern",
+    "location": "San Antonio Home Office I",
+    "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Bank-Credit-Risk-Analyst-Intern_R0121998",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-23T05:13:39.350311+00:00",
+    "date_discovered": "2026-10-23T05:13:39.988377+00:00"
+  },
+  {
+    "id": 18488102,
+    "company_display": "EY",
+    "title": "Quant Intern in EY Risk Consulting",
+    "location": "Belgrade",
+    "url": "https://careers.ey.com/ey/job/Belgrade-Quant-Intern-in-EY-Risk-Consulting-11070/1450762633/",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-10-23T12:14:47.296376+00:00"
+  },
+  {
+    "id": 18489183,
+    "company_display": "Engineers-Gate",
+    "title": "Quantitative Research Intern",
+    "location": "Singapore",
+    "url": "https://job-boards.greenhouse.io/engineersgate/jobs/8317827",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-23T16:04:22+00:00",
+    "date_discovered": "2026-10-23T16:06:47.309826+00:00"
+  },
+  {
+    "id": 18489747,
+    "company_display": "TD Bank",
+    "title": "Global Markets Intern/Co-op",
+    "location": "Toronto, Ontario",
+    "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Global-Markets-Intern-Co-op_R_1518680",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-23T17:40:12.708210+00:00",
+    "date_discovered": "2026-10-23T17:41:31.564765+00:00"
+  },
+  {
+    "id": 18490580,
+    "company_display": "Intercontinental-Exchange",
+    "title": "Summer Internship Program 2027 - Risk Analyst Intern",
+    "location": "London, United Kingdom",
+    "url": "https://globalcareers-ice.icims.com/jobs/14093/login",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-23T20:10:00+00:00",
+    "date_discovered": "2026-10-23T20:15:29.415855+00:00"
+  },
+  {
+    "id": 18490608,
+    "company_display": "Intercontinental-Exchange",
+    "title": "Summer Internship Program 2027 - Quantitative Research Intern",
+    "location": "Atlanta, Georgia",
+    "url": "https://careers-ice.icims.com/jobs/14057/login",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-23T20:09:00+00:00",
+    "date_discovered": "2026-10-23T20:15:29.801643+00:00"
+  },
+  {
+    "id": 18490611,
+    "company_display": "Intercontinental-Exchange",
+    "title": "Summer Internship Program 2027 - Quantitative Engineer Intern",
+    "location": "Atlanta, Georgia",
+    "url": "https://careers-ice.icims.com/jobs/14053/login",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-23T20:09:00+00:00",
+    "date_discovered": "2026-10-23T20:15:29.832415+00:00"
   }
 ]
