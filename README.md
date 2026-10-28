@@ -7,9 +7,9 @@ Quantitative research, trading and quant developer roles for interns and new gra
 | | 📚 Internships | 🎓 New Grad |
 |---|---|---|
 | **[🦅 USA](#usa)** | [<!-- COUNT_USA_INTERN -->14 roles](#usa-internships) | [<!-- COUNT_USA_NEWGRAD -->0 roles](#usa-new-grad) |
-| **[🌐 International](#international)** | [<!-- COUNT_INTL_INTERN -->19 roles](#international-internships) | [<!-- COUNT_INTL_NEWGRAD -->6 roles](#international-new-grad) |
+| **[🌐 International](#international)** | [<!-- COUNT_INTL_INTERN -->18 roles](#international-internships) | [<!-- COUNT_INTL_NEWGRAD -->6 roles](#international-new-grad) |
 
-Last updated: <!-- UPDATED -->2026-10-27
+Last updated: <!-- UPDATED -->2026-10-28
 
 <a id="usa"></a>
 
@@ -22,20 +22,20 @@ Last updated: <!-- UPDATED -->2026-10-27
 <!-- TABLE_USA_INTERN_START -->
 | Company | Position | Location | Posting | Age |
 |---|---|---|---|---|
-| **Man Group** | Systematic Fast Trading Intern | New York | <a href="https://job-boards.eu.greenhouse.io/mangroup/jobs/5012801101"><img src="assets/apply.svg" alt="Apply" height="36"/></a> | 1d |
-| **Intercontinental-Exchange** | Summer Internship Program 2027 - Quantitative Research Intern | Atlanta, Georgia | <a href="https://careers-ice.icims.com/jobs/14057/login"><img src="assets/apply.svg" alt="Apply" height="36"/></a> | 3d |
-| **Intercontinental-Exchange** | Summer Internship Program 2027 - Quantitative Engineer Intern | Atlanta, Georgia | <a href="https://careers-ice.icims.com/jobs/14053/login"><img src="assets/apply.svg" alt="Apply" height="36"/></a> | 3d |
-| **USAA** | Bank Credit Risk Analyst Intern | San Antonio Home Office I | <a href="https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Bank-Credit-Risk-Analyst-Intern_R0121998"><img src="assets/apply.svg" alt="Apply" height="36"/></a> | 3d |
-| **Invesco** | Quantitative Strategies Research Intern | New York | <a href="https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/New-York-New-York/Quantitative-Strategies-Research-Intern_R-15803-1"><img src="assets/apply.svg" alt="Apply" height="36"/></a> | 10d |
-| **Invesco** | Quantitative Intern - Portfolio Engineering and Analytics | Boston, Massachusetts | <a href="https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Boston-Massachusetts/Quantitative-Intern---Portfolio-Engineering-and-Analytics_R-15665-2"><img src="assets/apply.svg" alt="Apply" height="36"/></a> | 10d |
-| **Rbc** | Summer 2027 Global Asset Management Investment Risk Internship - Minneapolis, MN | Minneapolis, Minnesota, USA | <a href="https://rbc.wd3.myworkdayjobs.com/en-US/RBCEARLYTALENT1/job/Minneapolis-Minnesota-United-States-of-America/XMLNAME-2027-Summer-Internship---GAM-Investment-Risk_R-0000189986"><img src="assets/apply.svg" alt="Apply" height="36"/></a> | 12d |
-| **Acadian-Asset-Management** | Quantitative Investment Internship Program - Summer 2027 | Boston, Massachusetts, USA | <a href="https://www.acadian-asset.com/careers/open-positions?gh_jid=4720681006"><img src="assets/apply.svg" alt="Apply" height="36"/></a> | 13d |
-| **Occ** | Summer Intern - Market Risk | Chicago - 125 S Franklin | <a href="https://theocc.wd5.myworkdayjobs.com/en-US/careers/job/Chicago---125-S-Franklin/Summer-Intern---Market-Risk_REQ-4889"><img src="assets/apply.svg" alt="Apply" height="36"/></a> | 18d |
-| **Goldman Sachs** | 2027 \| Americas \| New York City Area \| Asset Management, Quantitative Investing \| Summer Analyst | New York, NY, USA | <a href="https://higher.gs.com/roles/155950"><img src="assets/apply.svg" alt="Apply" height="36"/></a> | 19d |
-| **HRT** | Algorithm Development (Quant Research & Trading) Internship – Summer 2027 | London, United Kingdom; New York, NY, United States; Singapore | <a href="https://www.hudsonrivertrading.com/careers/job/?gh_jid=7964062"><img src="assets/apply.svg" alt="Apply" height="36"/></a> | 19d |
-| **DRW** | Quantitative Trading Analyst Intern - IAP Winternship | Chicago, IL | <a href="https://job-boards.greenhouse.io/drwuniversityjobs/jobs/8259714"><img src="assets/apply.svg" alt="Apply" height="36"/></a> | 20d |
-| **Cboe** | Quant & Data Analytics Intern | Chicago, Illinois, USA | <a href="https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE/job/Chicago-IL/Quant---Data-Analytics-Intern_R-4708/apply"><img src="assets/apply.svg" alt="Apply" height="36"/></a> | 25d |
-| **Old Mission Capital** | Quantitative Trader - 2027 Micro-Internship Program (January Start) | Chicago, IL, USA | <a href="https://www.oldmissioncapital.com/careers/?gh_jid=8002345003"><img src="assets/apply.svg" alt="Apply" height="36"/></a> | 25d |
+| **Man Group** | Systematic Fast Trading Intern | New York | <a href="https://job-boards.eu.greenhouse.io/mangroup/jobs/5012801101"><img src="assets/apply.svg" alt="Apply" height="36"/></a> | 2d |
+| **Intercontinental-Exchange** | Summer Internship Program 2027 - Quantitative Research Intern | Atlanta, Georgia | <a href="https://careers-ice.icims.com/jobs/14057/login"><img src="assets/apply.svg" alt="Apply" height="36"/></a> | 4d |
+| **Intercontinental-Exchange** | Summer Internship Program 2027 - Quantitative Engineer Intern | Atlanta, Georgia | <a href="https://careers-ice.icims.com/jobs/14053/login"><img src="assets/apply.svg" alt="Apply" height="36"/></a> | 4d |
+| **USAA** | Bank Credit Risk Analyst Intern | San Antonio Home Office I | <a href="https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Bank-Credit-Risk-Analyst-Intern_R0121998"><img src="assets/apply.svg" alt="Apply" height="36"/></a> | 4d |
+| **Invesco** | Quantitative Strategies Research Intern | New York | <a href="https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/New-York-New-York/Quantitative-Strategies-Research-Intern_R-15803-1"><img src="assets/apply.svg" alt="Apply" height="36"/></a> | 11d |
+| **Invesco** | Quantitative Intern - Portfolio Engineering and Analytics | Boston, Massachusetts | <a href="https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Boston-Massachusetts/Quantitative-Intern---Portfolio-Engineering-and-Analytics_R-15665-2"><img src="assets/apply.svg" alt="Apply" height="36"/></a> | 11d |
+| **Rbc** | Summer 2027 Global Asset Management Investment Risk Internship - Minneapolis, MN | Minneapolis, Minnesota, USA | <a href="https://rbc.wd3.myworkdayjobs.com/en-US/RBCEARLYTALENT1/job/Minneapolis-Minnesota-United-States-of-America/XMLNAME-2027-Summer-Internship---GAM-Investment-Risk_R-0000189986"><img src="assets/apply.svg" alt="Apply" height="36"/></a> | 13d |
+| **Acadian-Asset-Management** | Quantitative Investment Internship Program - Summer 2027 | Boston, Massachusetts, USA | <a href="https://www.acadian-asset.com/careers/open-positions?gh_jid=4720681006"><img src="assets/apply.svg" alt="Apply" height="36"/></a> | 14d |
+| **Occ** | Summer Intern - Market Risk | Chicago - 125 S Franklin | <a href="https://theocc.wd5.myworkdayjobs.com/en-US/careers/job/Chicago---125-S-Franklin/Summer-Intern---Market-Risk_REQ-4889"><img src="assets/apply.svg" alt="Apply" height="36"/></a> | 19d |
+| **Goldman Sachs** | 2027 \| Americas \| New York City Area \| Asset Management, Quantitative Investing \| Summer Analyst | New York, NY, USA | <a href="https://higher.gs.com/roles/155950"><img src="assets/apply.svg" alt="Apply" height="36"/></a> | 20d |
+| **HRT** | Algorithm Development (Quant Research & Trading) Internship – Summer 2027 | London, United Kingdom; New York, NY, United States; Singapore | <a href="https://www.hudsonrivertrading.com/careers/job/?gh_jid=7964062"><img src="assets/apply.svg" alt="Apply" height="36"/></a> | 20d |
+| **DRW** | Quantitative Trading Analyst Intern - IAP Winternship | Chicago, IL | <a href="https://job-boards.greenhouse.io/drwuniversityjobs/jobs/8259714"><img src="assets/apply.svg" alt="Apply" height="36"/></a> | 21d |
+| **Cboe** | Quant & Data Analytics Intern | Chicago, Illinois, USA | <a href="https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE/job/Chicago-IL/Quant---Data-Analytics-Intern_R-4708/apply"><img src="assets/apply.svg" alt="Apply" height="36"/></a> | 26d |
+| **Old Mission Capital** | Quantitative Trader - 2027 Micro-Internship Program (January Start) | Chicago, IL, USA | <a href="https://www.oldmissioncapital.com/careers/?gh_jid=8002345003"><img src="assets/apply.svg" alt="Apply" height="36"/></a> | 26d |
 <!-- TABLE_USA_INTERN_END -->
 
 <sub>[↑ Back to top](#top)</sub>
@@ -57,30 +57,29 @@ Last updated: <!-- UPDATED -->2026-10-27
 
 <a id="international-internships"></a>
 
-### 📚 Internships (<!-- COUNT_INTL_INTERN -->19)
+### 📚 Internships (<!-- COUNT_INTL_INTERN -->18)
 
 <!-- TABLE_INTL_INTERN_START -->
 | Company | Position | Location | Posting | Age |
 |---|---|---|---|---|
-| **Engineers-Gate** | Quantitative Research Intern | Singapore | <a href="https://job-boards.greenhouse.io/engineersgate/jobs/8317827"><img src="assets/apply.svg" alt="Apply" height="36"/></a> | 3d |
-| **EY** | Quant Intern in EY Risk Consulting | Belgrade | <a href="https://careers.ey.com/ey/job/Belgrade-Quant-Intern-in-EY-Risk-Consulting-11070/1450762633/"><img src="assets/apply.svg" alt="Apply" height="36"/></a> | 3d |
-| **Intercontinental-Exchange** | Summer Internship Program 2027 - Risk Analyst Intern | London, United Kingdom | <a href="https://globalcareers-ice.icims.com/jobs/14093/login"><img src="assets/apply.svg" alt="Apply" height="36"/></a> | 3d |
-| **TD Bank** | Global Markets Intern/Co-op | Toronto, Ontario | <a href="https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Global-Markets-Intern-Co-op_R_1518680"><img src="assets/apply.svg" alt="Apply" height="36"/></a> | 3d |
-| **Schonfeld Strategic Advisors** | 2027 Index Rebalancing Quantitative Research Intern | Hong Kong | <a href="https://job-boards.greenhouse.io/schonfeld/jobs/8311597"><img src="assets/apply.svg" alt="Apply" height="36"/></a> | 4d |
-| **JPMorgan** | 2027 Commercial & Investment Banking - Global Markets - Off-cycle Internship – Paris | Paris, France | <a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210802076"><img src="assets/apply.svg" alt="Apply" height="36"/></a> | 5d |
-| **Optiver** | Expressions of Interest - Quantitative Research Internship, Bachelor or Master (Summer 2028 - Shanghai) | Shanghai, China | <a href="https://www.optiver.com/join-us/jobs/8901997002/?gh_jid=8901997002"><img src="assets/apply.svg" alt="Apply" height="36"/></a> | 6d |
-| **Graviton Research Capital** | Quantitative Researcher - 2027 Summer Internship | Amsterdam, North Holland, Netherlands; London, England, United Kingdom; New York; Singapore | <a href="https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8899673002"><img src="assets/apply.svg" alt="Apply" height="36"/></a> | 7d |
-| **Mufgub** | 2027 MUFG UK Summer Analyst Programme: Global Markets – Markets Engineering | London | <a href="https://mufgub.wd3.myworkdayjobs.com/en-US/MUFG-Careers/job/London/XMLNAME-2027-MUFG-UK-Summer-Analyst-Programme--Global-Markets---Markets-Engineering_10080069-WD-1"><img src="assets/apply.svg" alt="Apply" height="36"/></a> | 17d |
-| **Fidelity** | Fidelity Strategic Advisors Inc, Investment Trading Research Internship | Dublin, Ireland | <a href="https://fmr.wd1.myworkdayjobs.com/en-US/FidelityCareers/job/Dublin-Ireland/Intern_2136759-1"><img src="assets/apply.svg" alt="Apply" height="36"/></a> | 18d |
-| **Marshall Wace** | Quant Developer Intern - Hong Kong 2027 | Hong Kong | <a href="https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8857614002"><img src="assets/apply.svg" alt="Apply" height="36"/></a> | 19d |
-| **Franklin-Templeton** | Intern - Fixed Income Sustainability Team | Poznan, Poland | <a href="https://franklintempleton.wd5.myworkdayjobs.com/Primary-External-1/job/Poznan-Poland/Intern---Fixed-Income-Sustainability-Team_869913/apply"><img src="assets/apply.svg" alt="Apply" height="36"/></a> | 25d |
-| **Capstone-Investment-Advisors** | Summer 2027 - Quant Internship | London | <a href="https://job-boards.greenhouse.io/capstoneinvestmentadvisors/jobs/8859054002"><img src="assets/apply.svg" alt="Apply" height="36"/></a> | 26d |
-| **Robeco** | Super quant internship 2027 | The Netherlands, Rotterdam | <a href="https://robeco.wd3.myworkdayjobs.com/en-US/robecoexternalcareers/job/The-Netherlands-Rotterdam/Super-quant-internship-2027_R2261"><img src="assets/apply.svg" alt="Apply" height="36"/></a> | 26d |
-| **Schonfeld Strategic Advisors** | 2027 Quantitative C++ Developer Intern | Hong Kong | <a href="https://job-boards.greenhouse.io/schonfeld/jobs/8238451"><img src="assets/apply.svg" alt="Apply" height="36"/></a> | 27d |
-| **Schonfeld Strategic Advisors** | 2027 Quantitative Research Intern | Hong Kong | <a href="https://job-boards.greenhouse.io/schonfeld/jobs/8238448"><img src="assets/apply.svg" alt="Apply" height="36"/></a> | 27d |
-| **Man Group** | Trading Summer 2027 Internship | London | <a href="https://job-boards.eu.greenhouse.io/mangroup/jobs/4988791101"><img src="assets/apply.svg" alt="Apply" height="36"/></a> | 28d |
-| **Stepstone-Group** | 2026 - 2027 Private Debt Portfolio and Risk Management Intern | Zurich | <a href="https://www.stepstonegroup.com/current-opportunities/?gh_jid=8237507"><img src="assets/apply.svg" alt="Apply" height="36"/></a> | 28d |
-| **Trexquant** | Quantitative Researcher Intern -Summer 2027 year (CHINA) | Beijing, China | <a href="https://apply.workable.com/j/C08D3575FF/apply"><img src="assets/apply.svg" alt="Apply" height="36"/></a> | 29d |
+| **Engineers-Gate** | Quantitative Research Intern | Singapore | <a href="https://job-boards.greenhouse.io/engineersgate/jobs/8317827"><img src="assets/apply.svg" alt="Apply" height="36"/></a> | 4d |
+| **EY** | Quant Intern in EY Risk Consulting | Belgrade | <a href="https://careers.ey.com/ey/job/Belgrade-Quant-Intern-in-EY-Risk-Consulting-11070/1450762633/"><img src="assets/apply.svg" alt="Apply" height="36"/></a> | 4d |
+| **Intercontinental-Exchange** | Summer Internship Program 2027 - Risk Analyst Intern | London, United Kingdom | <a href="https://globalcareers-ice.icims.com/jobs/14093/login"><img src="assets/apply.svg" alt="Apply" height="36"/></a> | 4d |
+| **Schonfeld Strategic Advisors** | 2027 Index Rebalancing Quantitative Research Intern | Hong Kong | <a href="https://job-boards.greenhouse.io/schonfeld/jobs/8311597"><img src="assets/apply.svg" alt="Apply" height="36"/></a> | 5d |
+| **JPMorgan** | 2027 Commercial & Investment Banking - Global Markets - Off-cycle Internship – Paris | Paris, France | <a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210802076"><img src="assets/apply.svg" alt="Apply" height="36"/></a> | 6d |
+| **Optiver** | Expressions of Interest - Quantitative Research Internship, Bachelor or Master (Summer 2028 - Shanghai) | Shanghai, China | <a href="https://www.optiver.com/join-us/jobs/8901997002/?gh_jid=8901997002"><img src="assets/apply.svg" alt="Apply" height="36"/></a> | 7d |
+| **Graviton Research Capital** | Quantitative Researcher - 2027 Summer Internship | Amsterdam, North Holland, Netherlands; London, England, United Kingdom; New York; Singapore | <a href="https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8899673002"><img src="assets/apply.svg" alt="Apply" height="36"/></a> | 8d |
+| **Mufgub** | 2027 MUFG UK Summer Analyst Programme: Global Markets – Markets Engineering | London | <a href="https://mufgub.wd3.myworkdayjobs.com/en-US/MUFG-Careers/job/London/XMLNAME-2027-MUFG-UK-Summer-Analyst-Programme--Global-Markets---Markets-Engineering_10080069-WD-1"><img src="assets/apply.svg" alt="Apply" height="36"/></a> | 18d |
+| **Fidelity** | Fidelity Strategic Advisors Inc, Investment Trading Research Internship | Dublin, Ireland | <a href="https://fmr.wd1.myworkdayjobs.com/en-US/FidelityCareers/job/Dublin-Ireland/Intern_2136759-1"><img src="assets/apply.svg" alt="Apply" height="36"/></a> | 19d |
+| **Marshall Wace** | Quant Developer Intern - Hong Kong 2027 | Hong Kong | <a href="https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8857614002"><img src="assets/apply.svg" alt="Apply" height="36"/></a> | 20d |
+| **Franklin-Templeton** | Intern - Fixed Income Sustainability Team | Poznan, Poland | <a href="https://franklintempleton.wd5.myworkdayjobs.com/Primary-External-1/job/Poznan-Poland/Intern---Fixed-Income-Sustainability-Team_869913/apply"><img src="assets/apply.svg" alt="Apply" height="36"/></a> | 26d |
+| **Capstone-Investment-Advisors** | Summer 2027 - Quant Internship | London | <a href="https://job-boards.greenhouse.io/capstoneinvestmentadvisors/jobs/8859054002"><img src="assets/apply.svg" alt="Apply" height="36"/></a> | 27d |
+| **Robeco** | Super quant internship 2027 | The Netherlands, Rotterdam | <a href="https://robeco.wd3.myworkdayjobs.com/en-US/robecoexternalcareers/job/The-Netherlands-Rotterdam/Super-quant-internship-2027_R2261"><img src="assets/apply.svg" alt="Apply" height="36"/></a> | 27d |
+| **Schonfeld Strategic Advisors** | 2027 Quantitative C++ Developer Intern | Hong Kong | <a href="https://job-boards.greenhouse.io/schonfeld/jobs/8238451"><img src="assets/apply.svg" alt="Apply" height="36"/></a> | 28d |
+| **Schonfeld Strategic Advisors** | 2027 Quantitative Research Intern | Hong Kong | <a href="https://job-boards.greenhouse.io/schonfeld/jobs/8238448"><img src="assets/apply.svg" alt="Apply" height="36"/></a> | 28d |
+| **Man Group** | Trading Summer 2027 Internship | London | <a href="https://job-boards.eu.greenhouse.io/mangroup/jobs/4988791101"><img src="assets/apply.svg" alt="Apply" height="36"/></a> | 29d |
+| **Stepstone-Group** | 2026 - 2027 Private Debt Portfolio and Risk Management Intern | Zurich | <a href="https://www.stepstonegroup.com/current-opportunities/?gh_jid=8237507"><img src="assets/apply.svg" alt="Apply" height="36"/></a> | 29d |
+| **Trexquant** | Quantitative Researcher Intern -Summer 2027 year (CHINA) | Beijing, China | <a href="https://apply.workable.com/j/C08D3575FF/apply"><img src="assets/apply.svg" alt="Apply" height="36"/></a> | 30d |
 <!-- TABLE_INTL_INTERN_END -->
 
 <sub>[↑ Back to top](#top)</sub>
@@ -92,12 +91,12 @@ Last updated: <!-- UPDATED -->2026-10-27
 <!-- TABLE_INTL_NEWGRAD_START -->
 | Company | Position | Location | Posting | Age |
 |---|---|---|---|---|
-| **Graviton Research Capital** | Quantitative Researcher - 2027 Graduates | Amsterdam, North Holland, Netherlands; London, England, United Kingdom; New York; Singapore | <a href="https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8899670002"><img src="assets/apply.svg" alt="Apply" height="36"/></a> | 7d |
-| **ExxonMobil** | Placement - Global Trading - Quantitative Analyst - London 2027 | London, LND, GB | <a href="https://jobs.exxonmobil.com/job/London-Placement-Global-Trading-Quantitative-Analyst-London-2027-LND/1439091600/"><img src="assets/apply.svg" alt="Apply" height="36"/></a> | 14d |
-| **Mufgub** | 2027 MUFG UK Analyst Programme: | London | <a href="https://mufgub.wd3.myworkdayjobs.com/en-US/MUFG-Careers/job/London/XMLNAME-2027-MUFG-UK-Analyst-Programme-_10080071-WD-1"><img src="assets/apply.svg" alt="Apply" height="36"/></a> | 17d |
-| **Graviton Research Capital** | Graduate Central Execution Trader | Singapore | <a href="https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8862376002"><img src="assets/apply.svg" alt="Apply" height="36"/></a> | 24d |
-| **IMC Trading** | AAR - 2027 - Graduate Trader | Aarhus, Central Denmark Region, Denmark | <a href="https://job-boards.eu.greenhouse.io/imc/jobs/4966569101"><img src="assets/apply.svg" alt="Apply" height="36"/></a> | 25d |
-| **Davinci-Trading** | Graduate Quant | Amsterdam, North Holland, Netherlands | <a href="https://job-boards.eu.greenhouse.io/davinciderivatives/jobs/4046970101"><img src="assets/apply.svg" alt="Apply" height="36"/></a> | 28d |
+| **Graviton Research Capital** | Quantitative Researcher - 2027 Graduates | Amsterdam, North Holland, Netherlands; London, England, United Kingdom; New York; Singapore | <a href="https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8899670002"><img src="assets/apply.svg" alt="Apply" height="36"/></a> | 8d |
+| **ExxonMobil** | Placement - Global Trading - Quantitative Analyst - London 2027 | London, LND, GB | <a href="https://jobs.exxonmobil.com/job/London-Placement-Global-Trading-Quantitative-Analyst-London-2027-LND/1439091600/"><img src="assets/apply.svg" alt="Apply" height="36"/></a> | 15d |
+| **Mufgub** | 2027 MUFG UK Analyst Programme: | London | <a href="https://mufgub.wd3.myworkdayjobs.com/en-US/MUFG-Careers/job/London/XMLNAME-2027-MUFG-UK-Analyst-Programme-_10080071-WD-1"><img src="assets/apply.svg" alt="Apply" height="36"/></a> | 18d |
+| **Graviton Research Capital** | Graduate Central Execution Trader | Singapore | <a href="https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8862376002"><img src="assets/apply.svg" alt="Apply" height="36"/></a> | 25d |
+| **IMC Trading** | AAR - 2027 - Graduate Trader | Aarhus, Central Denmark Region, Denmark | <a href="https://job-boards.eu.greenhouse.io/imc/jobs/4966569101"><img src="assets/apply.svg" alt="Apply" height="36"/></a> | 26d |
+| **Davinci-Trading** | Graduate Quant | Amsterdam, North Holland, Netherlands | <a href="https://job-boards.eu.greenhouse.io/davinciderivatives/jobs/4046970101"><img src="assets/apply.svg" alt="Apply" height="36"/></a> | 29d |
 <!-- TABLE_INTL_NEWGRAD_END -->
 
 <sub>[↑ Back to top](#top)</sub>
