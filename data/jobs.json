@@ -1,16 +1,5 @@
 [
   {
-    "id": 14961447,
-    "company_display": "Trexquant",
-    "title": "Quantitative Researcher Intern -Summer 2027 year (CHINA)",
-    "location": "Beijing, China",
-    "url": "https://apply.workable.com/j/C08D3575FF/apply",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-09-28T00:00:00+00:00",
-    "date_discovered": "2026-09-28T07:09:59.114718+00:00"
-  },
-  {
     "id": 15036328,
     "company_display": "Davinci-Trading",
     "title": "Graduate Quant",
@@ -363,17 +352,6 @@
     "date_discovered": "2026-10-23T12:14:47.296376+00:00"
   },
   {
-    "id": 18489183,
-    "company_display": "Engineers-Gate",
-    "title": "Quantitative Research Intern",
-    "location": "Singapore",
-    "url": "https://job-boards.greenhouse.io/engineersgate/jobs/8317827",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-10-23T16:04:22+00:00",
-    "date_discovered": "2026-10-23T16:06:47.309826+00:00"
-  },
-  {
     "id": 18490580,
     "company_display": "Intercontinental-Exchange",
     "title": "Summer Internship Program 2027 - Risk Analyst Intern",
@@ -416,5 +394,137 @@
     "country": "us",
     "updated_at": "2026-10-26T01:18:38+00:00",
     "date_discovered": "2026-10-26T01:35:55.546666+00:00"
+  },
+  {
+    "id": 18509798,
+    "company_display": "Five Rings",
+    "title": "Campus Full Time 2027 - Quantitative Trader",
+    "location": "New York",
+    "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5255334008",
+    "skill_level": "entry",
+    "country": "us",
+    "updated_at": "2026-09-01T21:18:37+00:00",
+    "date_discovered": "2026-10-28T04:01:58.968975+00:00"
+  },
+  {
+    "id": 18509799,
+    "company_display": "Five Rings",
+    "title": "Campus Full Time 2027 - Quantitative Trader - Amsterdam",
+    "location": "Amsterdam",
+    "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5344213008",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": "2026-09-01T21:18:37+00:00",
+    "date_discovered": "2026-10-28T04:01:59.009992+00:00"
+  },
+  {
+    "id": 18509800,
+    "company_display": "Five Rings",
+    "title": "Campus Full Time 2027 - Quantitative Trader - London",
+    "location": "London",
+    "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5255367008",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": "2026-09-01T21:18:37+00:00",
+    "date_discovered": "2026-10-28T04:01:59.016120+00:00"
+  },
+  {
+    "id": 18510191,
+    "company_display": "Capstone-Investment-Advisors",
+    "title": "Summer 2027 - Investment Internship LDN",
+    "location": "London",
+    "url": "https://job-boards.greenhouse.io/capstoneinvestmentadvisors/jobs/8828058002",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-09-30T19:42:21+00:00",
+    "date_discovered": "2026-10-28T04:08:28.989689+00:00"
+  },
+  {
+    "id": 18510192,
+    "company_display": "Capstone-Investment-Advisors",
+    "title": "Summer 2027 - Investment Internship NYC",
+    "location": "New York",
+    "url": "https://job-boards.greenhouse.io/capstoneinvestmentadvisors/jobs/8827973002",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-21T20:18:37+00:00",
+    "date_discovered": "2026-10-28T04:08:29.018895+00:00"
+  },
+  {
+    "id": 18510196,
+    "company_display": "HRT",
+    "title": "Algorithm Developer (Quant Research & Trading) \u2013 2027 Grads",
+    "location": "London, United Kingdom; New York, NY, United States; Singapore",
+    "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052050",
+    "skill_level": "entry",
+    "country": "us",
+    "updated_at": "2026-10-07T17:25:59+00:00",
+    "date_discovered": "2026-10-28T04:08:33.859932+00:00"
+  },
+  {
+    "id": 18510711,
+    "company_display": "AllianceBernstein",
+    "title": "Investments Summer Intern",
+    "location": "New York",
+    "url": "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/New-York-New-York/Investments-Summer-Intern_R0019763",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-28T04:15:16.015144+00:00",
+    "date_discovered": "2026-10-28T04:15:19.168466+00:00"
+  },
+  {
+    "id": 18510712,
+    "company_display": "AllianceBernstein",
+    "title": "Investments Summer Intern",
+    "location": "Nashville, Tennessee",
+    "url": "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Investments-Summer-Intern_R0019762",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-28T04:15:16.015210+00:00",
+    "date_discovered": "2026-10-28T04:15:19.176713+00:00"
+  },
+  {
+    "id": 18510725,
+    "company_display": "Dimensional Fund Advisors",
+    "title": "Internship in Portfolio Management (Undergraduate & Master's)",
+    "location": "Austin; Charlotte",
+    "url": "https://dimensional.wd5.myworkdayjobs.com/en-US/DFA_Careers/job/Austin/Internship-in-Portfolio-Management--Undergraduate---Master-s-_2026-8998",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-28T04:15:27.795924+00:00",
+    "date_discovered": "2026-10-28T04:15:32.934821+00:00"
+  },
+  {
+    "id": 18512340,
+    "company_display": "Engineers-Gate",
+    "title": "Quantitative Finance Intern",
+    "location": "Quantitative Finance Intern",
+    "url": "https://job-boards.greenhouse.io/engineersgate/jobs/8328653",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-28T13:03:12+00:00",
+    "date_discovered": "2026-10-28T13:06:49.026617+00:00"
+  },
+  {
+    "id": 18513005,
+    "company_display": "Keyrock",
+    "title": "Quantitative Analyst Intern - Digital Assets Market Making (HFT)",
+    "location": "Brussels",
+    "url": "https://jobs.ashbyhq.com/keyrock/2665c2ed-9131-46d9-9a05-564e7a719d33",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-28T15:05:14.420000+00:00",
+    "date_discovered": "2026-10-28T15:06:58.063485+00:00"
+  },
+  {
+    "id": 18513184,
+    "company_display": "Keyrock",
+    "title": "DeFi Quant Research Intern - Digital Assets Market Making",
+    "location": "Brussels",
+    "url": "https://jobs.ashbyhq.com/keyrock/4cae20e0-f315-4ccb-aa8e-df0e87969313",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-28T15:16:10.125000+00:00",
+    "date_discovered": "2026-10-28T15:37:23.316144+00:00"
   }
 ]
