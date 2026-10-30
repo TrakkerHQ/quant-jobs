@@ -1,27 +1,5 @@
 [
   {
-    "id": 15036328,
-    "company_display": "Davinci-Trading",
-    "title": "Graduate Quant",
-    "location": "Amsterdam, North Holland, Netherlands",
-    "url": "https://job-boards.eu.greenhouse.io/davinciderivatives/jobs/4046970101",
-    "skill_level": "entry",
-    "country": "international",
-    "updated_at": "2026-09-28T11:22:39+00:00",
-    "date_discovered": "2026-09-28T11:36:27.761891+00:00"
-  },
-  {
-    "id": 15219356,
-    "company_display": "Man Group",
-    "title": "Trading Summer 2027 Internship",
-    "location": "London",
-    "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4988791101",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-09-28T16:42:31+00:00",
-    "date_discovered": "2026-09-28T17:05:53.731945+00:00"
-  },
-  {
     "id": 15817135,
     "company_display": "Schonfeld Strategic Advisors",
     "title": "2027 Quantitative C++ Developer Intern",
@@ -42,17 +20,6 @@
     "country": "international",
     "updated_at": "2026-09-29T14:31:51+00:00",
     "date_discovered": "2026-09-29T14:36:07.080268+00:00"
-  },
-  {
-    "id": 15901837,
-    "company_display": "Stepstone-Group",
-    "title": "2026 - 2027 Private Debt Portfolio and Risk Management Intern",
-    "location": "Zurich",
-    "url": "https://www.stepstonegroup.com/current-opportunities/?gh_jid=8237507",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-09-28T17:13:51+00:00",
-    "date_discovered": "2026-09-29T16:52:28.196040+00:00"
   },
   {
     "id": 16486775,
@@ -526,5 +493,49 @@
     "country": "international",
     "updated_at": "2026-10-28T15:16:10.125000+00:00",
     "date_discovered": "2026-10-28T15:37:23.316144+00:00"
+  },
+  {
+    "id": 18518707,
+    "company_display": "Keyrock",
+    "title": "DeFi Quant Trader Intern (Credit)",
+    "location": "Brussels",
+    "url": "https://jobs.ashbyhq.com/keyrock/6b46ce15-7e6b-4213-9eb4-41cc64577e24",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-29T13:05:01.114000+00:00",
+    "date_discovered": "2026-10-29T13:07:33.049875+00:00"
+  },
+  {
+    "id": 18518955,
+    "company_display": "Bmo",
+    "title": "BMO Capital Markets Quantitative Trading Analyst \u2013 12\u201316 Month Co-op",
+    "location": "Toronto, ON, CAN",
+    "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Quantitative-Trading-Analyst---12-16-Month-Co-op_R260029657",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-29T13:45:27.147833+00:00",
+    "date_discovered": "2026-10-29T13:46:00.873252+00:00"
+  },
+  {
+    "id": 18519524,
+    "company_display": "Keyrock",
+    "title": "Innovation Quant Developer: Intern - DeFi/Corporate Development",
+    "location": "Brussels",
+    "url": "https://jobs.ashbyhq.com/keyrock/d2d0a311-b102-4fda-b537-1a8e926b55c7",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-29T15:23:32.489000+00:00",
+    "date_discovered": "2026-10-29T15:38:01.708628+00:00"
+  },
+  {
+    "id": 18519888,
+    "company_display": "Ing",
+    "title": "Internship - Financial Markets - Quantitative Analytics",
+    "location": "TRC (Amsterdam - Treasury Center)",
+    "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/TRC-Amsterdam---Treasury-Center/Internship---Financial-Markets---Quantitative-Analytics_REQ-10123872",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-29T16:47:33.054150+00:00",
+    "date_discovered": "2026-10-29T16:47:47.942368+00:00"
   }
 ]
