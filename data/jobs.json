@@ -1,27 +1,5 @@
 [
   {
-    "id": 15817135,
-    "company_display": "Schonfeld Strategic Advisors",
-    "title": "2027 Quantitative C++ Developer Intern",
-    "location": "Hong Kong",
-    "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8238451",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-09-29T14:30:14+00:00",
-    "date_discovered": "2026-09-29T14:36:07.062532+00:00"
-  },
-  {
-    "id": 15817139,
-    "company_display": "Schonfeld Strategic Advisors",
-    "title": "2027 Quantitative Research Intern",
-    "location": "Hong Kong",
-    "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8238448",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-09-29T14:31:51+00:00",
-    "date_discovered": "2026-09-29T14:36:07.080268+00:00"
-  },
-  {
     "id": 16486775,
     "company_display": "Robeco",
     "title": "Super quant internship 2027",
@@ -528,14 +506,14 @@
     "date_discovered": "2026-10-29T15:38:01.708628+00:00"
   },
   {
-    "id": 18519888,
-    "company_display": "Ing",
-    "title": "Internship - Financial Markets - Quantitative Analytics",
-    "location": "TRC (Amsterdam - Treasury Center)",
-    "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/TRC-Amsterdam---Treasury-Center/Internship---Financial-Markets---Quantitative-Analytics_REQ-10123872",
+    "id": 18526142,
+    "company_display": "Brevan-Howard",
+    "title": "6-Month Internship \u2013 Trading, Tel Aviv",
+    "location": "Israel",
+    "url": "https://brevanhoward.wd3.myworkdayjobs.com/en-US/BH_ExternalCareers/job/Israel/XMLNAME-6-Month-Internship---Trading--Tel-Aviv_JR101650",
     "skill_level": "intern",
     "country": "international",
-    "updated_at": "2026-10-29T16:47:33.054150+00:00",
-    "date_discovered": "2026-10-29T16:47:47.942368+00:00"
+    "updated_at": "2026-10-30T16:21:19.997346+00:00",
+    "date_discovered": "2026-10-30T16:21:20.665933+00:00"
   }
 ]
