@@ -66,17 +66,6 @@
     "date_discovered": "2026-10-10T20:11:23.531033+00:00"
   },
   {
-    "id": 18422174,
-    "company_display": "DRW",
-    "title": "Quantitative Trading Analyst Intern - IAP Winternship",
-    "location": "Chicago, IL",
-    "url": "https://job-boards.greenhouse.io/drwuniversityjobs/jobs/8259714",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-06T19:41:24+00:00",
-    "date_discovered": "2026-10-10T20:12:01.242770+00:00"
-  },
-  {
     "id": 18422281,
     "company_display": "HRT",
     "title": "Algorithm Development (Quant Research & Trading) Internship \u2013 Summer 2027",
@@ -440,6 +429,17 @@
     "date_discovered": "2026-10-30T16:21:20.665933+00:00"
   },
   {
+    "id": 18541539,
+    "company_display": "Franklin-Templeton",
+    "title": "Intern (Investment Solutions/ AI Automation)",
+    "location": "Singapore",
+    "url": "https://franklintempleton.wd5.myworkdayjobs.com/Primary-External-1/job/Singapore-Singapore/Intern--Investment-Solutions--AI-Automation-_869655/apply",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-11-03T00:00:00+00:00",
+    "date_discovered": "2026-11-03T08:13:45.479470+00:00"
+  },
+  {
     "id": 18544820,
     "company_display": "Schonfeld Strategic Advisors",
     "title": "2027 Emerging Markets and Delta One Quantitative Researcher/Strat Intern",
@@ -460,5 +460,16 @@
     "country": "us",
     "updated_at": "2026-11-04T19:39:52+00:00",
     "date_discovered": "2026-11-04T20:05:10.780767+00:00"
+  },
+  {
+    "id": 18563832,
+    "company_display": "Bmo",
+    "title": "Quantitative Analyst, Summer 2027 (Co-op/Internship) - 4 Months",
+    "location": "Toronto, ON, CAN",
+    "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Toronto-ON-CAN/Quantitative-Analyst--Summer-2027--Co-op-Internship----4-Months_R260031097",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-11-06T17:44:56.561654+00:00",
+    "date_discovered": "2026-11-06T17:45:25.816664+00:00"
   }
 ]
