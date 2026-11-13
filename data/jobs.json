@@ -1,16 +1,5 @@
 [
   {
-    "id": 18427869,
-    "company_display": "ExxonMobil",
-    "title": "Placement - Global Trading - Quantitative Analyst - London 2027",
-    "location": "London, LND, GB",
-    "url": "https://jobs.exxonmobil.com/job/London-Placement-Global-Trading-Quantitative-Analyst-London-2027-LND/1439091600/",
-    "skill_level": "entry",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-10-12T14:37:46.659782+00:00"
-  },
-  {
     "id": 18435773,
     "company_display": "Acadian-Asset-Management",
     "title": "Quantitative Investment Internship Program - Summer 2027",
@@ -328,5 +317,16 @@
     "country": "us",
     "updated_at": "2026-11-11T21:21:06.615497+00:00",
     "date_discovered": "2026-11-11T21:21:07.302043+00:00"
+  },
+  {
+    "id": 18593444,
+    "company_display": "IMC Trading",
+    "title": "Graduate Risk Analyst",
+    "location": "Amsterdam, Netherlands",
+    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/5035003101",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": "2026-11-12T13:58:22+00:00",
+    "date_discovered": "2026-11-12T14:05:10.753742+00:00"
   }
 ]
