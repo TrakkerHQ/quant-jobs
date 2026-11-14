@@ -1,16 +1,5 @@
 [
   {
-    "id": 18435773,
-    "company_display": "Acadian-Asset-Management",
-    "title": "Quantitative Investment Internship Program - Summer 2027",
-    "location": "Boston, Massachusetts, USA",
-    "url": "https://www.acadian-asset.com/careers/open-positions?gh_jid=4720681006",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-13T18:47:55+00:00",
-    "date_discovered": "2026-10-13T19:06:26.660298+00:00"
-  },
-  {
     "id": 18442002,
     "company_display": "Rbc",
     "title": "Summer 2027 Global Asset Management Investment Risk Internship - Minneapolis, MN",
@@ -297,6 +286,17 @@
     "date_discovered": "2026-11-09T15:49:57.396658+00:00"
   },
   {
+    "id": 18580111,
+    "company_display": "Franklin-Templeton",
+    "title": "Investment Associate (Quantitative Research \u2013 FT Investment Solutions)",
+    "location": "Boston, Massachusetts, USA",
+    "url": "https://franklintempleton.wd5.myworkdayjobs.com/Invitation-Only/job/Boston-Massachusetts-United-States-of-America/Investment-Associate--Quantitative-Research---FT-Investment-Solutions-_870409/apply",
+    "skill_level": "entry",
+    "country": "us",
+    "updated_at": "2026-11-04T00:00:00+00:00",
+    "date_discovered": "2026-11-10T12:48:58.197712+00:00"
+  },
+  {
     "id": 18588930,
     "company_display": "Stepstone-Group",
     "title": "2027 AI Quant Summer Analyst",
@@ -328,5 +328,16 @@
     "country": "international",
     "updated_at": "2026-11-12T13:58:22+00:00",
     "date_discovered": "2026-11-12T14:05:10.753742+00:00"
+  },
+  {
+    "id": 18602913,
+    "company_display": "ExodusPoint Capital Management",
+    "title": "Quantitative Internship \u2013 Hong Kong",
+    "location": "Hong Kong",
+    "url": "https://job-boards.greenhouse.io/exoduspoint/jobs/8943351002",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-11-13T21:13:38+00:00",
+    "date_discovered": "2026-11-13T21:38:05.693079+00:00"
   }
 ]
