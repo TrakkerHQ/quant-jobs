@@ -1,27 +1,5 @@
 [
   {
-    "id": 18455923,
-    "company_display": "Invesco",
-    "title": "Quantitative Strategies Research Intern",
-    "location": "New York",
-    "url": "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/New-York-New-York/Quantitative-Strategies-Research-Intern_R-15803-1",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-16T22:18:55.747852+00:00",
-    "date_discovered": "2026-10-16T22:18:56.634072+00:00"
-  },
-  {
-    "id": 18455924,
-    "company_display": "Invesco",
-    "title": "Quantitative Intern - Portfolio Engineering and Analytics",
-    "location": "Boston, Massachusetts",
-    "url": "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Boston-Massachusetts/Quantitative-Intern---Portfolio-Engineering-and-Analytics_R-15665-2",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-16T22:18:55.748317+00:00",
-    "date_discovered": "2026-10-16T22:18:56.640259+00:00"
-  },
-  {
     "id": 18462921,
     "company_display": "Graviton Research Capital",
     "title": "Quantitative Researcher - 2027 Graduates",
@@ -328,5 +306,38 @@
     "country": "international",
     "updated_at": "2026-11-13T21:13:38+00:00",
     "date_discovered": "2026-11-13T21:38:05.693079+00:00"
+  },
+  {
+    "id": 18610291,
+    "company_display": "SIG",
+    "title": "Quantitative Trader Internship: November 2027",
+    "location": "Sydney, Australia",
+    "url": "https://careers-sig.icims.com/jobs/11194/login",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-11-16T04:34:18+00:00",
+    "date_discovered": "2026-11-16T05:05:13.553422+00:00"
+  },
+  {
+    "id": 18611633,
+    "company_display": "Keyrock",
+    "title": "DeFi Quant Trader Intern (Credit) - London",
+    "location": "London",
+    "url": "https://jobs.ashbyhq.com/Keyrock/959a9226-816b-4894-80e6-feaa79018d03",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-11-16T13:02:21.716000+00:00",
+    "date_discovered": "2026-11-16T13:07:41.262300+00:00"
+  },
+  {
+    "id": 18614172,
+    "company_display": "Keyrock",
+    "title": "Innovation Quant Developer Intern (DeFi/Corporate Development) - London",
+    "location": "London",
+    "url": "https://jobs.ashbyhq.com/Keyrock/99a38fdd-4250-42b9-a92b-5c0f48d563fd",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-11-16T21:34:10.506000+00:00",
+    "date_discovered": "2026-11-16T21:38:05.692864+00:00"
   }
 ]
