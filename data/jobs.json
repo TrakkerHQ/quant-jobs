@@ -1,27 +1,5 @@
 [
   {
-    "id": 18462921,
-    "company_display": "Graviton Research Capital",
-    "title": "Quantitative Researcher - 2027 Graduates",
-    "location": "Amsterdam, North Holland, Netherlands; London, England, United Kingdom; New York; Singapore",
-    "url": "https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8899670002",
-    "skill_level": "entry",
-    "country": "international",
-    "updated_at": "2026-10-19T09:23:17+00:00",
-    "date_discovered": "2026-10-19T10:01:39.707515+00:00"
-  },
-  {
-    "id": 18462922,
-    "company_display": "Graviton Research Capital",
-    "title": "Quantitative Researcher - 2027 Summer Internship",
-    "location": "Amsterdam, North Holland, Netherlands; London, England, United Kingdom; New York; Singapore",
-    "url": "https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8899673002",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-10-19T09:34:20+00:00",
-    "date_discovered": "2026-10-19T10:01:39.776483+00:00"
-  },
-  {
     "id": 18469277,
     "company_display": "Optiver",
     "title": "Expressions of Interest - Quantitative Research Internship, Bachelor or Master (Summer 2028 - Shanghai)",
@@ -372,5 +350,16 @@
     "country": "us",
     "updated_at": "2026-11-18T16:19:38.816899+00:00",
     "date_discovered": "2026-11-18T16:19:39.177599+00:00"
+  },
+  {
+    "id": 18632018,
+    "company_display": "Ing",
+    "title": "Internship - Interest Rate Risk in the Banking Book",
+    "location": "CDR (Amsterdam - Cedar)",
+    "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/CDR-Amsterdam---Cedar/Internship---Interest-Rate-Risk-in-the-Banking-Book_REQ-10124899",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-11-19T16:16:50.592684+00:00",
+    "date_discovered": "2026-11-19T16:16:53.249397+00:00"
   }
 ]
