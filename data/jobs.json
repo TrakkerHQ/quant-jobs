@@ -1,16 +1,5 @@
 [
   {
-    "id": 18469277,
-    "company_display": "Optiver",
-    "title": "Expressions of Interest - Quantitative Research Internship, Bachelor or Master (Summer 2028 - Shanghai)",
-    "location": "Shanghai, China",
-    "url": "https://www.optiver.com/join-us/jobs/8901997002/?gh_jid=8901997002",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-10-20T10:15:17+00:00",
-    "date_discovered": "2026-10-20T11:00:45.178385+00:00"
-  },
-  {
     "id": 18482878,
     "company_display": "Schonfeld Strategic Advisors",
     "title": "2027 Index Rebalancing Quantitative Research Intern",
@@ -352,14 +341,47 @@
     "date_discovered": "2026-11-18T16:19:39.177599+00:00"
   },
   {
-    "id": 18632018,
-    "company_display": "Ing",
-    "title": "Internship - Interest Rate Risk in the Banking Book",
-    "location": "CDR (Amsterdam - Cedar)",
-    "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/CDR-Amsterdam---Cedar/Internship---Interest-Rate-Risk-in-the-Banking-Book_REQ-10124899",
+    "id": 18636546,
+    "company_display": "State Street",
+    "title": "State Street Model Risk Management - Quantitative Analyst - 2027 Summer Internship",
+    "location": "Boston, Massachusetts, USA",
+    "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/State-Street-Model-Risk-Management---Quantitative-Analyst---2027-Summer-Internship_R-801343/apply",
     "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-11-19T16:16:50.592684+00:00",
-    "date_discovered": "2026-11-19T16:16:53.249397+00:00"
+    "country": "us",
+    "updated_at": "2026-11-20T00:00:00+00:00",
+    "date_discovered": "2026-11-20T07:08:11.711446+00:00"
+  },
+  {
+    "id": 18636549,
+    "company_display": "State Street",
+    "title": "State Street\u2019s Model Risk Management - Quantitative Analyst - 2027 Summer Internship",
+    "location": "Boston, Massachusetts, USA",
+    "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/State-Street-s-Model-Risk-Management---Quantitative-Analyst---2027-Summer-Internship_R-801342/apply",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-11-20T00:00:00+00:00",
+    "date_discovered": "2026-11-20T07:08:11.726280+00:00"
+  },
+  {
+    "id": 18638652,
+    "company_display": "State Street",
+    "title": "State Street Enterprise Risk Management - Quantitative Risk Internship - 2027 Summer Internship",
+    "location": "Clifton, New Jersey, USA",
+    "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Clifton-New-Jersey/State-Street-Enterprise-Risk-Management---Quantitative-Risk-Internship---2027-Summer-Internship_R-801341/apply",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-11-20T00:00:00+00:00",
+    "date_discovered": "2026-11-20T15:44:02.464675+00:00"
+  },
+  {
+    "id": 18640566,
+    "company_display": "Santander",
+    "title": "2027 Market Risk Summer Intern",
+    "location": "Madison Ave Corp",
+    "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers/job/Madison-Ave-Corp/XMLNAME-2027-Market-Risk-Summer-Intern_Req1636216",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-11-20T20:44:08.945423+00:00",
+    "date_discovered": "2026-11-20T20:44:12.475524+00:00"
   }
 ]
