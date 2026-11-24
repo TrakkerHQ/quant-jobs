@@ -1,60 +1,5 @@
 [
   {
-    "id": 18487015,
-    "company_display": "USAA",
-    "title": "Bank Credit Risk Analyst Intern",
-    "location": "San Antonio Home Office I",
-    "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Bank-Credit-Risk-Analyst-Intern_R0121998",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-23T05:13:39.350311+00:00",
-    "date_discovered": "2026-10-23T05:13:39.988377+00:00"
-  },
-  {
-    "id": 18488102,
-    "company_display": "EY",
-    "title": "Quant Intern in EY Risk Consulting",
-    "location": "Belgrade",
-    "url": "https://careers.ey.com/ey/job/Belgrade-Quant-Intern-in-EY-Risk-Consulting-11070/1450762633/",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-10-23T12:14:47.296376+00:00"
-  },
-  {
-    "id": 18490580,
-    "company_display": "Intercontinental-Exchange",
-    "title": "Summer Internship Program 2027 - Risk Analyst Intern",
-    "location": "London, United Kingdom",
-    "url": "https://globalcareers-ice.icims.com/jobs/14093/login",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-10-23T20:10:00+00:00",
-    "date_discovered": "2026-10-23T20:15:29.415855+00:00"
-  },
-  {
-    "id": 18490608,
-    "company_display": "Intercontinental-Exchange",
-    "title": "Summer Internship Program 2027 - Quantitative Research Intern",
-    "location": "Atlanta, Georgia",
-    "url": "https://careers-ice.icims.com/jobs/14057/login",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-23T20:09:00+00:00",
-    "date_discovered": "2026-10-23T20:15:29.801643+00:00"
-  },
-  {
-    "id": 18490611,
-    "company_display": "Intercontinental-Exchange",
-    "title": "Summer Internship Program 2027 - Quantitative Engineer Intern",
-    "location": "Atlanta, Georgia",
-    "url": "https://careers-ice.icims.com/jobs/14053/login",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-23T20:09:00+00:00",
-    "date_discovered": "2026-10-23T20:15:29.832415+00:00"
-  },
-  {
     "id": 18497077,
     "company_display": "Man Group",
     "title": "Systematic Fast Trading Intern",
@@ -308,6 +253,17 @@
     "date_discovered": "2026-11-18T16:19:39.177599+00:00"
   },
   {
+    "id": 18632018,
+    "company_display": "Ing",
+    "title": "Internship - Interest Rate Risk in the Banking Book",
+    "location": "CDR (Amsterdam - Cedar)",
+    "url": "https://ing.wd3.myworkdayjobs.com/en-US/ICSGBLCOR/job/CDR-Amsterdam---Cedar/Internship---Interest-Rate-Risk-in-the-Banking-Book_REQ-10124899",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-11-19T16:16:50.592684+00:00",
+    "date_discovered": "2026-11-19T16:16:53.249397+00:00"
+  },
+  {
     "id": 18636546,
     "company_display": "State Street",
     "title": "State Street Model Risk Management - Quantitative Analyst - 2027 Summer Internship",
@@ -350,5 +306,16 @@
     "country": "us",
     "updated_at": "2026-11-20T20:44:08.945423+00:00",
     "date_discovered": "2026-11-20T20:44:12.475524+00:00"
+  },
+  {
+    "id": 18648576,
+    "company_display": "Barclays",
+    "title": "Markets Quantitative Analyst Summer Internship Program 2028 New York",
+    "location": "New York, 745 7th Avenue",
+    "url": "https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Markets-Quantitative-Analyst-Summer-Internship-Program-2028-New-York_JR-0000139049",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-11-23T05:10:59.459247+00:00",
+    "date_discovered": "2026-11-23T05:11:03.099352+00:00"
   }
 ]
