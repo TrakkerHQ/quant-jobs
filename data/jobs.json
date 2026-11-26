@@ -1,16 +1,5 @@
 [
   {
-    "id": 18497077,
-    "company_display": "Man Group",
-    "title": "Systematic Fast Trading Intern",
-    "location": "New York",
-    "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/5012801101",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-26T01:18:38+00:00",
-    "date_discovered": "2026-10-26T01:35:55.546666+00:00"
-  },
-  {
     "id": 18512340,
     "company_display": "Engineers-Gate",
     "title": "Quantitative Finance Intern",
@@ -231,6 +220,17 @@
     "date_discovered": "2026-11-16T21:38:05.692864+00:00"
   },
   {
+    "id": 18618810,
+    "company_display": "State Street",
+    "title": "State Street Investment Management- Client Portfolio Management - 2027 Summer Internship",
+    "location": "Boston, Massachusetts, USA",
+    "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/State-Street-Investment-Management--Client-Portfolio-Management---2027-Summer-Internship_R-801215-1/apply",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-11-17T00:00:00+00:00",
+    "date_discovered": "2026-11-17T15:44:21.044713+00:00"
+  },
+  {
     "id": 18625598,
     "company_display": "Cme-Group",
     "title": "Quantitative Data & AI Analytics Intern - Year Round",
@@ -275,6 +275,17 @@
     "date_discovered": "2026-11-20T07:08:11.726280+00:00"
   },
   {
+    "id": 18638652,
+    "company_display": "State Street",
+    "title": "State Street Enterprise Risk Management - Quantitative Risk Internship - 2027 Summer Internship",
+    "location": "Clifton, New Jersey, USA",
+    "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Clifton-New-Jersey/State-Street-Enterprise-Risk-Management---Quantitative-Risk-Internship---2027-Summer-Internship_R-801341/apply",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-11-20T00:00:00+00:00",
+    "date_discovered": "2026-11-20T15:44:02.464675+00:00"
+  },
+  {
     "id": 18640566,
     "company_display": "Santander",
     "title": "2027 Market Risk Summer Intern",
@@ -306,5 +317,16 @@
     "country": "us",
     "updated_at": "2026-11-24T00:00:00+00:00",
     "date_discovered": "2026-11-24T17:14:05.873346+00:00"
+  },
+  {
+    "id": 18667657,
+    "company_display": "Two Sigma",
+    "title": "Quantitative Trader - Full-Time Campus Hire",
+    "location": "United States - NY New York",
+    "url": "https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Trader-Full-Time-Campus-Hire/14440",
+    "skill_level": "entry",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-11-25T21:08:55.510576+00:00"
   }
 ]
